@@ -197,8 +197,8 @@
     "link": null
   },
   {
-    "id": "IMG_1663",
-    "image": "images/IMG_1663.JPG",
+    "id": "IMG_1671",
+    "image": "images/IMG_1671.JPG",
     "signs": [
       {
         "text": "芝生内に入らないでください\nPlease do not walk on the lawn.\n请勿进入草坪内\n請勿進入草坪\n잔디에 들어가지 마세요\nPrière de ne pas marcher sur la pelouse\nSe ruega no pisar el césped",
@@ -217,42 +217,21 @@
           "自立",
           "看板"
         ]
-      },
-      {
-        "text": "落書き禁止\nNo Graffiti\n禁止涂鸦\n禁止塗鴉\n낙서금지\nGraffitis interdits\nProhibido hacer pintadas",
-        "pictograms": [
-          "赤丸斜線",
-          "鉛筆"
-        ],
-        "language": [
-          "ja",
-          "en",
-          "zh-Hans",
-          "zh-Hant",
-          "ko",
-          "fr",
-          "es",
-          "_multi"
-        ],
-        "form": [
-          "ロープ",
-          "看板"
-        ]
       }
     ],
-    "date": "2026-02-07T13:50:15",
+    "date": "2026-02-07T14:39:22",
     "location": {
-      "lat": 35.0126,
-      "lng": 135.7504
+      "lat": 35.0135,
+      "lng": 135.7495
     },
     "location_info": {
       "country": "日本",
       "country_code": "jp",
       "province": "京都府",
       "city": "京都市",
-      "district": "池元町"
+      "district": "二条城町"
     },
-    "original_image": "IMG_1663.HEIC",
+    "original_image": "IMG_1671.HEIC",
     "notes": "二条城",
     "link": null
   },
@@ -296,6 +275,48 @@
       "district": "二条城町"
     },
     "original_image": "IMG_1669.HEIC",
+    "notes": "二条城",
+    "link": null
+  },
+  {
+    "id": "IMG_1663",
+    "image": "images/IMG_1663.JPG",
+    "signs": [
+      {
+        "text": "落書き禁止\nNo Graffiti\n禁止涂鸦\n禁止塗鴉\n낙서금지\nGraffitis interdits\nProhibido hacer pintadas",
+        "pictograms": [
+          "赤丸斜線",
+          "鉛筆"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "zh-Hant",
+          "ko",
+          "fr",
+          "es",
+          "_multi"
+        ],
+        "form": [
+          "ロープ",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-02-07T13:50:15",
+    "location": {
+      "lat": 35.0126,
+      "lng": 135.7504
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "池元町"
+    },
+    "original_image": "IMG_1663.HEIC",
     "notes": "二条城",
     "link": null
   },
@@ -703,7 +724,7 @@
       "district": "西大寺新田町"
     },
     "original_image": "IMG_1177.HEIC",
-    "notes": null,
+    "notes": "大和西大寺",
     "link": null
   },
   {
