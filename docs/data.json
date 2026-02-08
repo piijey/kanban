@@ -27,7 +27,7 @@
         "pictograms": [],
         "language": [
           "vi",
-          "zh",
+          "zh-Hans",
           "_multi"
         ],
         "form": [
@@ -41,9 +41,173 @@
       "lat": 34.6622,
       "lng": 135.5619
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "東大阪市",
+      "district": "足代一丁目"
+    },
     "original_image": "IMG_2899.HEIC",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_5093",
+    "image": "images/IMG_5093.JPG",
+    "signs": [
+      {
+        "text": "警告\n請勿強行拉開車門！\n為保障閣下生命安全及避免列車突然停頓，在没有車務人員的指示下，請勿強行拉開車門。\nCAUTION\nDO NOT OPEN!\nANY ATTEMPT TO OPEN THE DOOR WILL CAUSE SERIOUS INJURY AND SUDDEN STOPPAGE OF THE VEHICLE. PLEASE DO NOT OPEN THE DOOR OTHERWISE INSTRUCTED.",
+        "pictograms": [],
+        "language": [
+          "en",
+          "zh-Hant"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-07-15T15:18:25",
+    "location": {
+      "lat": 22.318,
+      "lng": 113.937
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": "香港 Hong Kong",
+      "district": null
+    },
+    "original_image": "IMG_5093.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4149",
+    "image": "images/IMG_4149.JPG",
+    "signs": [
+      {
+        "text": "CAUTION\nWET FLOOR\nCHÚ Ý\nSÀN ƯỚT",
+        "pictograms": [
+          "黄三角",
+          "滑る人"
+        ],
+        "language": [
+          "en",
+          "vi"
+        ],
+        "form": [
+          "持ち運び",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-07-10T16:18:38",
+    "location": {
+      "lat": 21.2176,
+      "lng": 105.7923
+    },
+    "location_info": {
+      "country": "Việt Nam",
+      "country_code": "vn",
+      "province": null,
+      "city": "Thành phố Hà Nội",
+      "district": "Xã Nội Bài"
+    },
+    "original_image": "IMG_4149.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4137",
+    "image": "images/IMG_4137.JPG",
+    "signs": [
+      {
+        "text": "CHÚ Ý\nBẬC CỬA XE\nCAUTION",
+        "pictograms": [
+          "段差",
+          "転ぶ人"
+        ],
+        "language": [
+          "vi",
+          "en"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-07-10T14:15:26",
+    "location": {
+      "lat": 21.224,
+      "lng": 105.7961
+    },
+    "location_info": {
+      "country": "Việt Nam",
+      "country_code": "vn",
+      "province": null,
+      "city": "Thành phố Hà Nội",
+      "district": "Xã Nội Bài"
+    },
+    "original_image": "IMG_4137.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2082",
+    "image": "images/IMG_2082.JPG",
+    "signs": [
+      {
+        "text": "厨房重地\n闲人免进\nNO ADMITTANCE TO KITCHEN",
+        "pictograms": [
+          "丸斜線",
+          "歩く人"
+        ],
+        "language": [
+          "zh-Hans",
+          "en"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "请小心突然开门\nCAUTION DOOR SWINGS OUTWARD",
+        "pictograms": [
+          "ドアを開ける人",
+          "矢印",
+          "驚く人"
+        ],
+        "language": [
+          "zh-Hans",
+          "en"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-03-09T15:19:35",
+    "location": {
+      "lat": 31.1548,
+      "lng": 121.8057
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": null,
+      "district": null
+    },
+    "original_image": "IMG_2082.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_8504",
@@ -54,7 +218,7 @@
         "pictograms": [],
         "language": [
           "ja",
-          "zh",
+          "zh-Hans",
           "vi",
           "_multi"
         ],
@@ -68,6 +232,13 @@
     "location": {
       "lat": 34.7195,
       "lng": 135.4793
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "十三本町一丁目"
     },
     "original_image": "IMG_8504.HEIC",
     "notes": null,
@@ -84,7 +255,7 @@
           "スーツケースを引く人"
         ],
         "language": [
-          "zh",
+          "zh-Hans",
           "en",
           "_multi"
         ],
@@ -99,7 +270,7 @@
           "地図"
         ],
         "language": [
-          "zh",
+          "zh-Hans",
           "en",
           "_multi"
         ],
@@ -126,6 +297,13 @@
     "location": {
       "lat": 34.6809,
       "lng": 135.8318
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "登大路町"
     },
     "original_image": "IMG_8149.HEIC",
     "notes": null,
@@ -155,8 +333,8 @@
           "捨てる人"
         ],
         "language": [
-          "zh",
-          "zh",
+          "zh-Hans",
+          "zh-Hant",
           "en",
           "ja",
           "_multi"
@@ -171,6 +349,13 @@
     "location": {
       "lat": 34.6812,
       "lng": 135.8195
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "油阪地方町"
     },
     "original_image": "IMG_7786.heic",
     "notes": null,
@@ -190,7 +375,7 @@
           "ja",
           "en",
           "vi",
-          "zh",
+          "zh-Hans",
           "_multi"
         ],
         "form": [
@@ -203,6 +388,13 @@
     "location": {
       "lat": 34.6708,
       "lng": 135.5005
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "心斎橋筋二丁目"
     },
     "original_image": "IMG_4643.HEIC",
     "notes": null,
@@ -222,7 +414,7 @@
           "en",
           "de",
           "ko",
-          "zh",
+          "zh-Hans",
           "_multi"
         ],
         "form": [
@@ -235,6 +427,13 @@
     "location": {
       "lat": 35.0146,
       "lng": 135.6774
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "嵯峨天龍寺芒ノ馬場町"
     },
     "original_image": "IMG_4220.heic",
     "notes": null,
@@ -250,7 +449,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "ko",
           "_multi"
         ],
@@ -265,6 +464,13 @@
       "lat": 34.669,
       "lng": 135.5012
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "宗右衛門町"
+    },
     "original_image": "IMG_3202.heic",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
@@ -277,7 +483,7 @@
         "text": "因为由鹤桥商店推进协会费用经营所以除支付工会费的人外，禁止出售。\n如果您非法放置，您将被判处最长五年的监禁或法律规定的最高1000万日元的罚款。\n高性能安全摄像头安装\n录音24小时\n一旦被发现，我会报告。",
         "pictograms": [],
         "language": [
-          "zh"
+          "zh-Hans"
         ],
         "form": [
           "自立",
@@ -291,7 +497,7 @@
         ],
         "language": [
           "ja",
-          "zh"
+          "zh-Hans"
         ],
         "form": [
           "自立",
@@ -303,6 +509,13 @@
     "location": {
       "lat": 34.6656,
       "lng": 135.5315
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "東小橋三丁目"
     },
     "original_image": "IMG_3182.heic",
     "notes": null,
@@ -332,6 +545,13 @@
       "lat": 34.6623,
       "lng": 135.5356
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "桃谷三丁目"
+    },
     "original_image": "IMG_3165.HEIC",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
@@ -350,7 +570,7 @@
           "ja",
           "en",
           "ko",
-          "zh",
+          "zh-Hans",
           "vi",
           "_multi"
         ],
@@ -364,6 +584,13 @@
     "location": {
       "lat": 34.6604,
       "lng": 135.5342
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "桃谷三丁目"
     },
     "original_image": "IMG_3162.heic",
     "notes": null,
@@ -393,6 +620,13 @@
       "lat": 34.6658,
       "lng": 135.5305
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "東小橋三丁目"
+    },
     "original_image": "IMG_3111.heic",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
@@ -409,7 +643,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "vi",
           "_multi"
         ],
@@ -426,7 +660,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "vi",
           "_multi"
         ],
@@ -443,7 +677,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "vi",
           "_multi"
         ],
@@ -462,7 +696,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "vi",
           "_multi"
         ],
@@ -481,7 +715,6 @@
         "language": [
           "ja",
           "en",
-          "zh",
           "vi",
           "_multi"
         ],
@@ -500,7 +733,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "vi",
           "_multi"
         ],
@@ -525,6 +758,13 @@
     "location": {
       "lat": 34.7412,
       "lng": 135.7958
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "木津川市",
+      "district": null
     },
     "original_image": "IMG_2311.heic",
     "notes": null,
@@ -551,6 +791,13 @@
       "lat": 33.8866,
       "lng": 130.8822
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "福岡県",
+      "city": "北九州市",
+      "district": "京町二丁目"
+    },
     "original_image": "IMG_0301.heic",
     "notes": null,
     "link": "https://x.com/xiPJ/status/1654472446584684545"
@@ -576,6 +823,13 @@
       "lat": 33.9525,
       "lng": 130.9646
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "福岡県",
+      "city": "北九州市",
+      "district": "旧門司一丁目"
+    },
     "original_image": "IMG_0156.heic",
     "notes": null,
     "link": "https://x.com/xiPJ/status/1654164548285235211"
@@ -591,13 +845,13 @@
         ],
         "language": [
           "ja",
-          "en",
           "zh",
+          "en",
           "ko",
           "_multi"
         ],
         "form": [
-          "ガラス",
+          "壁",
           "貼り文字"
         ]
       }
@@ -606,6 +860,13 @@
     "location": {
       "lat": 33.9499,
       "lng": 130.9296
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "山口県",
+      "city": "下関市",
+      "district": "豊前田町三丁目"
     },
     "original_image": "IMG_9972.HEIC",
     "notes": null,
@@ -632,6 +893,13 @@
       "lat": 33.9511,
       "lng": 130.9265
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "山口県",
+      "city": "下関市",
+      "district": "豊前田町三丁目"
+    },
     "original_image": "IMG_9951.heic",
     "notes": "ふりがな",
     "link": "https://x.com/xiPJ/status/1657318564649635845"
@@ -650,7 +918,7 @@
           "ja"
         ],
         "form": [
-          "ガラス",
+          "窓",
           "貼紙"
         ]
       }
@@ -659,6 +927,13 @@
     "location": {
       "lat": 34.3526,
       "lng": 132.4551
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "広島県",
+      "city": "広島市",
+      "district": "宇品西六丁目"
     },
     "original_image": "IMG_9762.heic",
     "notes": null,
@@ -685,6 +960,13 @@
       "lat": 34.3644,
       "lng": 132.3517
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "広島県",
+      "city": "広島市",
+      "district": "楽々園一丁目"
+    },
     "original_image": "IMG_9678.heic",
     "notes": null,
     "link": "https://x.com/xiPJ/status/1655779222496092162"
@@ -709,6 +991,13 @@
     "location": {
       "lat": 34.3971,
       "lng": 132.4279
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "広島県",
+      "city": "広島市",
+      "district": "己斐本町一丁目"
     },
     "original_image": "IMG_9622.HEIC",
     "notes": null,
@@ -737,6 +1026,13 @@
       "lat": 34.3933,
       "lng": 132.466
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "広島県",
+      "city": "広島市",
+      "district": "胡町"
+    },
     "original_image": "IMG_9585.HEIC",
     "notes": null,
     "link": "https://x.com/xiPJ/status/1653725863094136832"
@@ -751,7 +1047,7 @@
         "language": [
           "ja",
           "en",
-          "zh"
+          "zh-Hant"
         ],
         "form": [
           "中央制御機",
@@ -763,6 +1059,13 @@
     "location": {
       "lat": 34.6667,
       "lng": 135.5062
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "日本橋一丁目"
     },
     "original_image": "IMG_8252.HEIC",
     "notes": null,
@@ -790,6 +1093,13 @@
       "lat": 34.6692,
       "lng": 135.5017
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "宗右衛門町"
+    },
     "original_image": "IMG_5487.heic",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
@@ -815,6 +1125,13 @@
       "lat": 34.6932,
       "lng": 135.6978
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "生駒市",
+      "district": "元町一丁目"
+    },
     "original_image": "IMG_3029.HEIC",
     "notes": null,
     "link": null
@@ -839,6 +1156,13 @@
     "location": {
       "lat": 34.6348,
       "lng": 135.5193
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "桃ケ池町一丁目"
     },
     "original_image": "IMG_2426.HEIC",
     "notes": null,
@@ -902,6 +1226,13 @@
       "lat": 34.7689,
       "lng": 135.3495
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "兵庫県",
+      "city": "西宮市",
+      "district": "上甲東園三丁目"
+    },
     "original_image": "IMG_2128.HEIC",
     "notes": null,
     "link": null
@@ -946,6 +1277,13 @@
       "lat": 34.7647,
       "lng": 135.3549
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "兵庫県",
+      "city": "西宮市",
+      "district": "上甲東園四丁目"
+    },
     "original_image": "IMG_2115.heic",
     "notes": null,
     "link": null
@@ -970,6 +1308,13 @@
     "location": {
       "lat": 35.0066,
       "lng": 135.7711
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "鍋屋町"
     },
     "original_image": "IMG_1567.HEIC",
     "notes": null,
@@ -1003,6 +1348,13 @@
       "lat": 34.9865,
       "lng": 135.759
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "門前町"
+    },
     "original_image": "IMG_1162.heic",
     "notes": null,
     "link": null
@@ -1027,6 +1379,13 @@
     "location": {
       "lat": 34.6786,
       "lng": 135.8305
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "登大路町"
     },
     "original_image": "IMG_1088.HEIC",
     "notes": null,
@@ -1064,6 +1423,13 @@
       "lat": 34.694,
       "lng": 135.7846
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "青野町一丁目"
+    },
     "original_image": "IMG_0681.HEIC",
     "notes": null,
     "link": null
@@ -1088,6 +1454,13 @@
     "location": {
       "lat": 34.6929,
       "lng": 135.7838
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "西大寺国見町一丁目"
     },
     "original_image": "IMG_0662.HEIC",
     "notes": null,
@@ -1273,6 +1646,13 @@
       "lat": 34.6937,
       "lng": 135.7834
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "西大寺新田町"
+    },
     "original_image": "IMG_9358.HEIC",
     "notes": null,
     "link": null
@@ -1302,6 +1682,13 @@
       "lat": 35.0097,
       "lng": 135.7693
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "恵比須町"
+    },
     "original_image": "IMG_8116.HEIC",
     "notes": null,
     "link": null
@@ -1327,6 +1714,13 @@
       "lat": 34.6939,
       "lng": 135.7836
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "西大寺新田町"
+    },
     "original_image": "IMG_7162.jpg",
     "notes": null,
     "link": null
@@ -1345,7 +1739,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "ko",
           "_multi"
         ],
@@ -1359,6 +1753,13 @@
     "location": {
       "lat": 35.715,
       "lng": 139.775
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": null,
+      "city": "台東区",
+      "district": null
     },
     "original_image": "IMG_4856.HEIC",
     "notes": null,
@@ -1384,6 +1785,13 @@
     "location": {
       "lat": 34.8046,
       "lng": 135.4555
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "豊中市",
+      "district": "待兼山町"
     },
     "original_image": "IMG_4583.HEIC",
     "notes": null,
@@ -1425,6 +1833,13 @@
       "lat": 34.6975,
       "lng": 135.5122
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "天神橋二丁目"
+    },
     "original_image": "IMG_4324_2.heic",
     "notes": null,
     "link": null
@@ -1457,6 +1872,13 @@
       "lat": 34.6975,
       "lng": 135.5122
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "天神橋二丁目"
+    },
     "original_image": "IMG_4324.heic",
     "notes": null,
     "link": null
@@ -1482,7 +1904,82 @@
       "lat": 34.6697,
       "lng": 135.4981
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "西心斎橋二丁目"
+    },
     "original_image": "IMG_4147.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2737",
+    "image": "images/IMG_2737.JPG",
+    "signs": [
+      {
+        "text": "彈指神功，水滴入盆\nPlease leave the basin clean and tidy.",
+        "pictograms": [],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2019-05-07T11:28:35",
+    "location": {
+      "lat": 22.6315,
+      "lng": 120.3017
+    },
+    "location_info": {
+      "country": "臺灣",
+      "country_code": "tw",
+      "province": null,
+      "city": "高雄市",
+      "district": "明莊里"
+    },
+    "original_image": "IMG_2737.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2683",
+    "image": "images/IMG_2683.JPG",
+    "signs": [
+      {
+        "text": "請小心\n路面不平 濕滑",
+        "pictograms": [
+          "円",
+          "滑る人"
+        ],
+        "language": [
+          "zh-Hant"
+        ],
+        "form": [
+          "床",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2019-05-05T21:58:35",
+    "location": {
+      "lat": 22.644,
+      "lng": 120.3019
+    },
+    "location_info": {
+      "country": "臺灣",
+      "country_code": "tw",
+      "province": null,
+      "city": "高雄市",
+      "district": "民享里"
+    },
+    "original_image": "IMG_2683.HEIC",
     "notes": null,
     "link": null
   },
@@ -1514,6 +2011,13 @@
       "lat": 34.6464,
       "lng": 135.5135
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "悲田院町"
+    },
     "original_image": "IMG_1689.HEIC",
     "notes": null,
     "link": null
@@ -1527,8 +2031,8 @@
         "pictograms": [],
         "language": [
           "en",
-          "zh",
-          "zh",
+          "zh-Hans",
+          "zh-Hant",
           "ko",
           "_multi"
         ],
@@ -1541,6 +2045,13 @@
     "location": {
       "lat": 34.6989,
       "lng": 135.4928
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "梅田二丁目"
     },
     "original_image": "IMG_1625.HEIC",
     "notes": null,
@@ -1569,6 +2080,13 @@
       "lat": 34.8202,
       "lng": 135.5223
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "吹田市",
+      "district": "山田丘"
+    },
     "original_image": "IMG_1516.HEIC",
     "notes": null,
     "link": null
@@ -1594,6 +2112,13 @@
     "location": {
       "lat": 34.6835,
       "lng": 135.8285
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "登大路町"
     },
     "original_image": "IMG_1464.HEIC",
     "notes": null,
@@ -1631,6 +2156,13 @@
       "lat": 34.6841,
       "lng": 135.8287
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "登大路町"
+    },
     "original_image": "IMG_1460.HEIC",
     "notes": null,
     "link": null
@@ -1667,6 +2199,13 @@
       "lat": 34.8088,
       "lng": 135.4947
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "豊中市",
+      "district": null
+    },
     "original_image": "IMG_1017.heic",
     "notes": null,
     "link": null
@@ -1691,6 +2230,13 @@
     "location": {
       "lat": 34.8088,
       "lng": 135.4946
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "豊中市",
+      "district": "新千里東町一丁目"
     },
     "original_image": "IMG_1016.HEIC",
     "notes": null,
@@ -1717,6 +2263,13 @@
       "lat": 34.6494,
       "lng": 135.506
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "恵美須東三丁目"
+    },
     "original_image": "IMG_1010.HEIC",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
@@ -1742,6 +2295,13 @@
       "lat": 34.0646,
       "lng": 132.9935
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "愛媛県",
+      "city": "今治市",
+      "district": "中日吉町一丁目"
+    },
     "original_image": "IMG_0632.HEIC",
     "notes": null,
     "link": null
@@ -1766,6 +2326,13 @@
     "location": {
       "lat": 34.7973,
       "lng": 135.4486
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "豊中市",
+      "district": "螢池東町三丁目"
     },
     "original_image": "IMG_0103.JPG",
     "notes": null,
@@ -1796,6 +2363,13 @@
       "lat": 34.8057,
       "lng": 135.5362
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "吹田市",
+      "district": "千里万博公園"
+    },
     "original_image": "IMG_9863.HEIC",
     "notes": null,
     "link": null
@@ -1825,6 +2399,13 @@
       "lat": 34.8355,
       "lng": 135.5123
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "箕面市",
+      "district": "小野原西一丁目"
+    },
     "original_image": "IMG_9420.HEIC",
     "notes": null,
     "link": null
@@ -1843,7 +2424,7 @@
         "language": [
           "ja",
           "en",
-          "zh",
+          "zh-Hans",
           "ko",
           "_multi"
         ],
@@ -1857,6 +2438,13 @@
     "location": {
       "lat": 34.706,
       "lng": 135.4987
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "茶屋町"
     },
     "original_image": "IMG_9002.HEIC",
     "notes": null,
@@ -1886,6 +2474,13 @@
       "lat": 34.8058,
       "lng": 135.5361
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "吹田市",
+      "district": "千里万博公園"
+    },
     "original_image": "IMG_8915.HEIC",
     "notes": null,
     "link": null
@@ -1914,6 +2509,13 @@
     "location": {
       "lat": 34.7088,
       "lng": 135.5025
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "中崎西二丁目"
     },
     "original_image": "IMG_8710.JPG",
     "notes": null,
@@ -1946,6 +2548,7 @@
     ],
     "date": "2017-10-23T10:22:31",
     "location": null,
+    "location_info": null,
     "original_image": "IMG_1598.JPG",
     "notes": null,
     "link": null
@@ -2068,6 +2671,7 @@
     ],
     "date": "2017-08-16T11:26:11",
     "location": null,
+    "location_info": null,
     "original_image": "IMG_1296.JPG",
     "notes": null,
     "link": null
@@ -2107,6 +2711,13 @@
       "lat": 34.7629,
       "lng": 137.3819
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "愛知県",
+      "city": "豊橋市",
+      "district": "駅前大通一丁目"
+    },
     "original_image": "IMG_6953.jpg",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
@@ -2137,6 +2748,13 @@
       "lat": 34.805,
       "lng": 135.5338
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "吹田市",
+      "district": "千里万博公園"
+    },
     "original_image": "IMG_6329.JPG",
     "notes": null,
     "link": null
@@ -2161,6 +2779,13 @@
     "location": {
       "lat": 34.833,
       "lng": 135.4986
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "箕面市",
+      "district": "今宮二丁目"
     },
     "original_image": "IMG_6325.JPG",
     "notes": null,
@@ -2187,6 +2812,13 @@
     "location": {
       "lat": 34.6958,
       "lng": 135.5119
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "天神橋二丁目"
     },
     "original_image": "IMG_6216.JPG",
     "notes": null,
@@ -2224,6 +2856,13 @@
       "lat": 34.6994,
       "lng": 135.5116
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "天神橋三丁目"
+    },
     "original_image": "IMG_6211.JPG",
     "notes": null,
     "link": null
@@ -2254,6 +2893,13 @@
       "lat": 34.8059,
       "lng": 135.5314
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "吹田市",
+      "district": "山田東四丁目"
+    },
     "original_image": "IMG_5870.JPG",
     "notes": null,
     "link": null
@@ -2283,6 +2929,13 @@
       "lat": 36.2936,
       "lng": 139.3777
     },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "群馬県",
+      "city": "太田市",
+      "district": "本町"
+    },
     "original_image": "IMG_5758.JPG",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
@@ -2304,7 +2957,7 @@
           "_multi"
         ],
         "form": [
-          "ガラス",
+          "扉",
           "貼紙"
         ]
       }
@@ -2313,6 +2966,13 @@
     "location": {
       "lat": 43.1972,
       "lng": 141.0017
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "北海道",
+      "city": "小樽市",
+      "district": "色内二丁目"
     },
     "original_image": "IMG_5011.jpg",
     "notes": null,
@@ -2330,11 +2990,11 @@
           "en",
           "ru",
           "ko",
-          "zh",
+          "zh-Hant",
           "_multi"
         ],
         "form": [
-          "ガラス",
+          "扉",
           "貼紙"
         ]
       },
@@ -2350,7 +3010,7 @@
           "en"
         ],
         "form": [
-          "ガラス",
+          "扉",
           "貼紙"
         ]
       }
@@ -2359,6 +3019,13 @@
     "location": {
       "lat": 43.1971,
       "lng": 141.002
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "北海道",
+      "city": "小樽市",
+      "district": "色内一丁目"
     },
     "original_image": "IMG_5008.JPG",
     "notes": null,
@@ -2384,6 +3051,13 @@
     "location": {
       "lat": 36.2993,
       "lng": 139.3784
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "群馬県",
+      "city": "太田市",
+      "district": "東本町"
     },
     "original_image": "IMG_3531.jpg",
     "notes": null,
