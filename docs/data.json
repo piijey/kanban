@@ -174,10 +174,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2021-03-06T19:42:06",
+    "location": {
+      "lat": 34.6937,
+      "lng": 135.7834
+    },
     "original_image": "IMG_9358.HEIC"
   },
   {
@@ -200,15 +201,16 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2020-10-31T13:03:46",
+    "location": {
+      "lat": 35.0097,
+      "lng": 135.7693
+    },
     "original_image": "IMG_8116.HEIC"
   },
   {
     "id": "IMG_7162",
-    "image": "images/IMG_7162.jpg",
+    "image": "images/IMG_7162.JPG",
     "signs": [
       {
         "text": "お願い！\n大変危険ですのでパーテンションをまたがないでください！",
@@ -227,8 +229,6 @@
       "lat": 34.6939,
       "lng": 135.7836
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_7162.jpg"
   },
   {
@@ -255,10 +255,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2019-12-27T15:49:54",
+    "location": {
+      "lat": 35.715,
+      "lng": 139.775
+    },
     "original_image": "IMG_4856.HEIC"
   },
   {
@@ -277,10 +278,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2019-12-08T09:42:15",
+    "location": {
+      "lat": 34.8046,
+      "lng": 135.4555
+    },
     "original_image": "IMG_4583.HEIC"
   },
   {
@@ -314,10 +316,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2019-11-01T18:21:51",
+    "location": {
+      "lat": 34.6975,
+      "lng": 135.5122
+    },
     "original_image": "IMG_4324_2.heic"
   },
   {
@@ -343,10 +346,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2019-11-01T18:21:51",
+    "location": {
+      "lat": 34.6975,
+      "lng": 135.5122
+    },
     "original_image": "IMG_4324.heic"
   },
   {
@@ -365,10 +369,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2019-10-06T16:33:45",
+    "location": {
+      "lat": 34.6697,
+      "lng": 135.4981
+    },
     "original_image": "IMG_4147.HEIC"
   },
   {
@@ -394,10 +399,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2019-01-06T17:04:09",
+    "location": {
+      "lat": 34.6464,
+      "lng": 135.5135
+    },
     "original_image": "IMG_1689.HEIC"
   },
   {
@@ -418,10 +424,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-12-07T12:55:38",
+    "location": {
+      "lat": 34.8202,
+      "lng": 135.5223
+    },
     "original_image": "IMG_1516.HEIC"
   },
   {
@@ -441,10 +448,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-11-25T18:35:09",
+    "location": {
+      "lat": 34.6835,
+      "lng": 135.8285
+    },
     "original_image": "IMG_1464.HEIC"
   },
   {
@@ -474,10 +482,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-11-25T17:42:38",
+    "location": {
+      "lat": 34.6841,
+      "lng": 135.8287
+    },
     "original_image": "IMG_1460.HEIC"
   },
   {
@@ -507,10 +516,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-10-13T21:30:03",
+    "location": {
+      "lat": 34.8088,
+      "lng": 135.4947
+    },
     "original_image": "IMG_1017.heic"
   },
   {
@@ -529,10 +539,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-10-13T21:21:27",
+    "location": {
+      "lat": 34.8088,
+      "lng": 135.4946
+    },
     "original_image": "IMG_1016.HEIC"
   },
   {
@@ -551,10 +562,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-09-22T19:11:13",
+    "location": {
+      "lat": 34.0646,
+      "lng": 132.9935
+    },
     "original_image": "IMG_0632.HEIC"
   },
   {
@@ -578,8 +590,6 @@
       "lat": 34.7973,
       "lng": 135.4486
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_0103.JPG"
   },
   {
@@ -602,10 +612,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-07-08T15:13:51",
+    "location": {
+      "lat": 34.8057,
+      "lng": 135.5362
+    },
     "original_image": "IMG_9863.HEIC"
   },
   {
@@ -628,10 +639,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-04-30T17:45:43",
+    "location": {
+      "lat": 34.8355,
+      "lng": 135.5123
+    },
     "original_image": "IMG_9420.HEIC"
   },
   {
@@ -653,10 +665,11 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
+    "date": "2018-03-01T20:01:39",
+    "location": {
+      "lat": 34.8058,
+      "lng": 135.5361
+    },
     "original_image": "IMG_8915.HEIC"
   },
   {
@@ -684,8 +697,6 @@
       "lat": 34.7088,
       "lng": 135.5025
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_8710.JPG"
   },
   {
@@ -715,8 +726,6 @@
     ],
     "date": "2017-10-23T10:22:31",
     "location": null,
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_1598.JPG"
   },
   {
@@ -837,8 +846,6 @@
     ],
     "date": "2017-08-16T11:26:11",
     "location": null,
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_1296.JPG"
   },
   {
@@ -866,8 +873,6 @@
       "lat": 34.805,
       "lng": 135.5338
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_6329.JPG"
   },
   {
@@ -891,8 +896,6 @@
       "lat": 34.833,
       "lng": 135.4986
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_6325.JPG"
   },
   {
@@ -917,8 +920,6 @@
       "lat": 34.6958,
       "lng": 135.5119
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_6216.JPG"
   },
   {
@@ -953,8 +954,6 @@
       "lat": 34.6994,
       "lng": 135.5116
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_6211.JPG"
   },
   {
@@ -983,8 +982,6 @@
       "lat": 34.8059,
       "lng": 135.5314
     },
-    "tags": [],
-    "notes": "",
     "original_image": "IMG_5870.JPG"
   }
 ]

@@ -12,7 +12,6 @@ from typing import Any, Optional
 import pandas as pd
 from PIL import Image
 from PIL.ExifTags import TAGS
-import pillow_heif
 
 
 def get_image_metadata(image_path: str) -> dict:
@@ -27,20 +26,7 @@ def get_image_metadata(image_path: str) -> dict:
         return result
     
     try:
-        # HEIC/HEIF ファイル対応
-        if image_path.lower().endswith(('.heic', '.heif')):
-            heif_file = pillow_heif.read_heif(image_path)
-            image = Image.frombytes(
-                heif_file.mode,
-                heif_file.size,
-                heif_file.data,
-                'raw',
-                heif_file.mode,
-                heif_file.stride,
-            )
-        else:
-            image = Image.open(image_path)
-        
+        image = Image.open(image_path)        
         exif_data = image._getexif()
         
         if exif_data:
@@ -69,7 +55,7 @@ def get_image_metadata(image_path: str) -> dict:
                     result["location"] = {"lat": round(lat, 4), "lng": round(lng, 4)}
     except Exception as e:
         print(f"Warning: Could not read EXIF from {image_path}: {e}")
-    
+
     return result
 
 
@@ -117,11 +103,8 @@ def excel_to_json(excel_path: str, output_path: str, images_dir: str) -> None:
     for img_name, group in grouped:
         # id と image パスの生成
         img_id = Path(img_name).stem  # 拡張子を除いたファイル名
-        # HEIC/heic を JPG に正規化
-        normalized_img_name = img_name
-        if normalized_img_name.lower().endswith(('.heic', '.heif')):
-            normalized_img_name = Path(img_name).stem + '.JPG'
-        image_path = os.path.join(images_dir, img_name)
+        normalized_img_name = img_id + '.JPG'  # 変換済みJPGファイル名
+        image_path = os.path.join(images_dir, normalized_img_name)
         
         # EXIF情報の取得
         metadata = get_image_metadata(image_path)
@@ -145,11 +128,12 @@ def excel_to_json(excel_path: str, output_path: str, images_dir: str) -> None:
             "signs": signs,
             "date": metadata["date"],
             "location": metadata["location"],
-            "tags": [],
-            "notes": "",
             "original_image": img_name,
         }
         result.append(record)
+
+        if metadata["date"] is None or metadata["location"] is None:
+            print(f" ▲ Note: Missing metadata for {image_path}:\n   date={metadata['date']}, location={metadata['location']}")
     
     # JSON出力
     with open(output_path, "w", encoding="utf-8") as f:
