@@ -1,5 +1,1099 @@
 [
   {
+    "id": "IMG_2899",
+    "image": "images/IMG_2899.JPG",
+    "signs": [
+      {
+        "text": "24h SECURITY CAMERAS\n防犯カメラ作動中 24時間記録中\n不法投棄禁止\n不法投棄は犯罪です！！\n違反者は法律により処罰されます。\n空き缶やタバコ、ゴミなどを捨てた場合も不法投棄にあたります。\n(株)詩風花",
+        "pictograms": [
+          "黄ダイヤ",
+          "カメラ",
+          "手",
+          "ぎざぎざ",
+          "STOP"
+        ],
+        "language": [
+          "en",
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙",
+          "壁"
+        ]
+      },
+      {
+        "text": "Cấm vứt rác giá bất hợp pháp\nChú ý\nViệc vứt rác giá bất hợp pháp sẽ bị xử phạt theo phạt luật\nTối đa 5 năm tù giam\nPhạt tiền đến 10 000 000 yên\n禁止非法丢弃垃圾\n警告\n违法丟弃垃圾者将被处以五年以下徒刑，或一千万日圆以下罚款，或两者併罚。",
+        "pictograms": [],
+        "language": [
+          "vi",
+          "zh",
+          "_multi"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-09-06T18:51:05",
+    "location": {
+      "lat": 34.6622,
+      "lng": 135.5619
+    },
+    "original_image": "IMG_2899.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_8504",
+    "image": "images/IMG_8504.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\n不要停自行车\nĐừng dừng xe đạp.",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "鎖",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2024-07-21T14:34:54",
+    "location": {
+      "lat": 34.7195,
+      "lng": 135.4793
+    },
+    "original_image": "IMG_8504.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_8149",
+    "image": "images/IMG_8149.JPG",
+    "signs": [
+      {
+        "text": "携带行李者禁止通行（购物者除外）\nNo thoroughfare with suitcases",
+        "pictograms": [
+          "赤丸斜線",
+          "スーツケースを引く人"
+        ],
+        "language": [
+          "zh",
+          "en",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "请使用楼梯或酒店入口的缓台\nPlease use the stairs or the ramp at the back of the building.",
+        "pictograms": [
+          "地図"
+        ],
+        "language": [
+          "zh",
+          "en",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "ニューヤマザキデイリーストア奈良猿沢Deer店\n店舗入口",
+        "pictograms": [
+          "ロゴマーク"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2024-06-22T16:54:04",
+    "location": {
+      "lat": 34.6809,
+      "lng": 135.8318
+    },
+    "original_image": "IMG_8149.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_7786",
+    "image": "images/IMG_7786.JPG",
+    "signs": [
+      {
+        "text": "周辺のお店では両替はできません\nI cannot exchange money in the neighboring shops",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "请勿乱扔垃圾\n請勿亂丟垃扱\nPlease Do Not Litter Here\nゴミを捨てないでください",
+        "pictograms": [
+          "赤丸斜線",
+          "丸めた紙",
+          "捨てる人"
+        ],
+        "language": [
+          "zh",
+          "zh",
+          "en",
+          "ja",
+          "_multi"
+        ],
+        "form": [
+          "自立",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2024-05-18T15:31:04",
+    "location": {
+      "lat": 34.6812,
+      "lng": 135.8195
+    },
+    "original_image": "IMG_7786.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_4643",
+    "image": "images/IMG_4643.JPG",
+    "signs": [
+      {
+        "text": "関係者以外立入禁止\nDo Not Enter. Authorized Personnel Only.\nKhông phận sự miễn vào\n无关人员不得入内",
+        "pictograms": [
+          "赤斜線",
+          "歩く人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "vi",
+          "zh",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-12-17T17:05:40",
+    "location": {
+      "lat": 34.6708,
+      "lng": 135.5005
+    },
+    "original_image": "IMG_4643.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_4220",
+    "image": "images/IMG_4220.JPG",
+    "signs": [
+      {
+        "text": "関係者以外進入禁止\nWrong way\nFalscher Weg\n진입금지\n错误的方法",
+        "pictograms": [
+          "車両進入禁止"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "de",
+          "ko",
+          "zh",
+          "_multi"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-11-17T14:26:17",
+    "location": {
+      "lat": 35.0146,
+      "lng": 135.6774
+    },
+    "original_image": "IMG_4220.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3202",
+    "image": "images/IMG_3202.JPG",
+    "signs": [
+      {
+        "text": "飛込み危険\nDanger! No diving!\n危险！禁止跳水\n다이빙위험",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "ko",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-09-15T22:07:53",
+    "location": {
+      "lat": 34.669,
+      "lng": 135.5012
+    },
+    "original_image": "IMG_3202.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3182",
+    "image": "images/IMG_3182.JPG",
+    "signs": [
+      {
+        "text": "因为由鹤桥商店推进协会费用经营所以除支付工会费的人外，禁止出售。\n如果您非法放置，您将被判处最长五年的监禁或法律规定的最高1000万日元的罚款。\n高性能安全摄像头安装\n录音24小时\n一旦被发现，我会报告。",
+        "pictograms": [],
+        "language": [
+          "zh"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "犯人録画中\n在刑事录音期间",
+        "pictograms": [
+          "カメラ"
+        ],
+        "language": [
+          "ja",
+          "zh"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-09-15T21:11:35",
+    "location": {
+      "lat": 34.6656,
+      "lng": 135.5315
+    },
+    "original_image": "IMG_3182.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3165",
+    "image": "images/IMG_3165.JPG",
+    "signs": [
+      {
+        "text": "自販機のゴミだけ捨ててくれてありがとう ♡♡ 감사합니다",
+        "pictograms": [
+          "人"
+        ],
+        "language": [
+          "ja",
+          "ko"
+        ],
+        "form": [
+          "柱",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-09-15T20:58:12",
+    "location": {
+      "lat": 34.6623,
+      "lng": 135.5356
+    },
+    "original_image": "IMG_3165.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3162",
+    "image": "images/IMG_3162.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\nNO PARKING\n주차 금지\n禁止停车\nCÁM ĐỖ XE 2 BÁNH\n自転車は自転車駐車場（駐輪場）へ\nありがとうございます。この道路は、皆様のご協力できれいに保たれています。",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "ko",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-09-15T20:40:58",
+    "location": {
+      "lat": 34.6604,
+      "lng": 135.5342
+    },
+    "original_image": "IMG_3162.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3111",
+    "image": "images/IMG_3111.JPG",
+    "signs": [
+      {
+        "text": "8:00~20:00\n위험\n危険\n자전거 주행금지\n自転車バイク走行禁止\n押して通行して下さい！",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車に乗る人"
+        ],
+        "language": [
+          "ko",
+          "ja"
+        ],
+        "form": [
+          "持ち運び"
+        ]
+      }
+    ],
+    "date": "2023-09-15T18:09:22",
+    "location": {
+      "lat": 34.6658,
+      "lng": 135.5305
+    },
+    "original_image": "IMG_3111.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_2311",
+    "image": "images/IMG_2311.JPG",
+    "signs": [
+      {
+        "text": "安全帯使用\nWear Safety Belt\n必须系安全带\nSỬ DỤNG DÂY ĐAI AN TOAN",
+        "pictograms": [
+          "安全帯を使用する人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "保護帽着用\nWear Helmet\n必须载安全帽\nĐỘI MŨ ĐÀO HỐ",
+        "pictograms": [
+          "安全帽を着用する人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "整理整頓\nKeep Tidy\n整理整顿\nV SINH SẠCH SE",
+        "pictograms": [
+          "箱を積み重ねる人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "頭上注意\nWatch Your Head\n当心头顶\nCHÚ Ý TRÊN ĐÂU",
+        "pictograms": [
+          "頭上の突起物",
+          "ぎざぎざ",
+          "見上げる人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "足もと注意\nWatch Your Step\nCHÚ Ý DƯỚI CHÂN",
+        "pictograms": [
+          "段差",
+          "ぎざぎざ",
+          "走る人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "開口部注意\nDanger: Opening in Floor\n当心开口处\nCHÚ Ý LỜ MỜ",
+        "pictograms": [
+          "床の穴",
+          "ぎざぎざ",
+          "倒れる人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "vi",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "工事車両の迷惑駐車を禁止します。近隣に配慮した行動をお願いします。",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-07-30T14:56:04",
+    "location": {
+      "lat": 34.7412,
+      "lng": 135.7958
+    },
+    "original_image": "IMG_2311.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_0301",
+    "image": "images/IMG_0301.JPG",
+    "signs": [
+      {
+        "text": "■ 黄色の点字ブロックの内側でお待ちください\n■ きけんです（高電圧）\n転落にご注意ください\n飛び降り行為は警察に通報します\n■ 下に物を落としたときは駅係員にご連絡ください",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-05-05T13:17:19",
+    "location": {
+      "lat": 33.8866,
+      "lng": 130.8822
+    },
+    "original_image": "IMG_0301.heic",
+    "notes": null,
+    "link": "https://x.com/xiPJ/status/1654472446584684545"
+  },
+  {
+    "id": "IMG_0156",
+    "image": "images/IMG_0156.JPG",
+    "signs": [
+      {
+        "text": "たばこのむな",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-05-04T18:30:26",
+    "location": {
+      "lat": 33.9525,
+      "lng": 130.9646
+    },
+    "original_image": "IMG_0156.heic",
+    "notes": null,
+    "link": "https://x.com/xiPJ/status/1654164548285235211"
+  },
+  {
+    "id": "IMG_9972",
+    "image": "images/IMG_9972.JPG",
+    "signs": [
+      {
+        "text": "タワー入口\nTower Entrance\n塔入口\n타워입구",
+        "pictograms": [
+          "矢印"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "ko",
+          "_multi"
+        ],
+        "form": [
+          "ガラス",
+          "貼り文字"
+        ]
+      }
+    ],
+    "date": "2023-05-04T15:33:44",
+    "location": {
+      "lat": 33.9499,
+      "lng": 130.9296
+    },
+    "original_image": "IMG_9972.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_9951",
+    "image": "images/IMG_9951.JPG",
+    "signs": [
+      {
+        "text": "ハトに餌をあげないでください。\n公園管理者",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-05-04T14:30:22",
+    "location": {
+      "lat": 33.9511,
+      "lng": 130.9265
+    },
+    "original_image": "IMG_9951.heic",
+    "notes": "ふりがな",
+    "link": "https://x.com/xiPJ/status/1657318564649635845"
+  },
+  {
+    "id": "IMG_9762",
+    "image": "images/IMG_9762.JPG",
+    "signs": [
+      {
+        "text": "クルマの人にゃ飲ますまぁでぇ\n飲んだら、乗るまぁ、乗らすまぁ\nやめよう！飲酒運転ひろしま\nお酒を飲んだら公共交通機関を利用しましょう\n広島市",
+        "pictograms": [
+          "赤丸斜線",
+          "赤い顔の車"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "ガラス",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-05-03T18:18:34",
+    "location": {
+      "lat": 34.3526,
+      "lng": 132.4551
+    },
+    "original_image": "IMG_9762.heic",
+    "notes": null,
+    "link": "https://x.com/xiPJ/status/1653723225455755264"
+  },
+  {
+    "id": "IMG_9678",
+    "image": "images/IMG_9678.JPG",
+    "signs": [
+      {
+        "text": "離合電車に注意しましょう！！\n左右の安全確認をしましょう！！",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-05-03T16:03:17",
+    "location": {
+      "lat": 34.3644,
+      "lng": 132.3517
+    },
+    "original_image": "IMG_9678.heic",
+    "notes": null,
+    "link": "https://x.com/xiPJ/status/1655779222496092162"
+  },
+  {
+    "id": "IMG_9622",
+    "image": "images/IMG_9622.JPG",
+    "signs": [
+      {
+        "text": "危険です\nすがらないでください",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-05-03T13:59:45",
+    "location": {
+      "lat": 34.3971,
+      "lng": 132.4279
+    },
+    "original_image": "IMG_9622.HEIC",
+    "notes": null,
+    "link": "https://x.com/xiPJ/status/1653631255865610240"
+  },
+  {
+    "id": "IMG_9585",
+    "image": "images/IMG_9585.JPG",
+    "signs": [
+      {
+        "text": "毎月2・12・22日は マイカー 乗るまぁデー\nノーマイカーデーひろしま実行委員会 広島市",
+        "pictograms": [
+          "電車に乗るクマ"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-05-03T12:10:14",
+    "location": {
+      "lat": 34.3933,
+      "lng": 132.466
+    },
+    "original_image": "IMG_9585.HEIC",
+    "notes": null,
+    "link": "https://x.com/xiPJ/status/1653725863094136832"
+  },
+  {
+    "id": "IMG_8252",
+    "image": "images/IMG_8252.JPG",
+    "signs": [
+      {
+        "text": "精算機ではありません\nIt's not a fare adjustment machine.\n這不是補票機",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en",
+          "zh"
+        ],
+        "form": [
+          "中央制御機",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-02-23T14:47:36",
+    "location": {
+      "lat": 34.6667,
+      "lng": 135.5062
+    },
+    "original_image": "IMG_8252.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_5487",
+    "image": "images/IMG_5487.JPG",
+    "signs": [
+      {
+        "text": "立ち小便禁止\nNo! Standing!\n大阪市 建設局",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2022-07-23T21:26:40",
+    "location": {
+      "lat": 34.6692,
+      "lng": 135.5017
+    },
+    "original_image": "IMG_5487.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3029",
+    "image": "images/IMG_3029.JPG",
+    "signs": [
+      {
+        "text": "これは、腰掛です。\n危険ですので、この上に登らないでください。",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-01-15T18:19:53",
+    "location": {
+      "lat": 34.6932,
+      "lng": 135.6978
+    },
+    "original_image": "IMG_3029.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2426",
+    "image": "images/IMG_2426.JPG",
+    "signs": [
+      {
+        "text": "お勤めご苦労さまです\n公園に家庭の生ゴミを捨てないで下さい．\n皆さんの良心に恥じないようお願い！！\nあなたはよくても皆が困る？",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "看板",
+          "手書き"
+        ]
+      }
+    ],
+    "date": "2021-11-21T10:35:55",
+    "location": {
+      "lat": 34.6348,
+      "lng": 135.5193
+    },
+    "original_image": "IMG_2426.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2128",
+    "image": "images/IMG_2128.JPG",
+    "signs": [
+      {
+        "text": "構内出入口の開閉について\n日曜日・祝日 8/13〜8/21 12/25〜1/5 閉門\n上記以外の開閉時間\n授業期間中 開門 午前7時 閉門午後11時30分\n授業期間外 開門 午前7時 閉門 午後11時30分\n関係者以外立ち入り禁止\n同窓の方、教職員、学生、その他関西学院にご用の方は正門横受付にお申し出ください。\n関西学院",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "緊急自動車出入口につき駐車をご遠慮下さい。\n関西学院",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "駐輪禁止\n車イス・歩行者の通行の妨げになりますので駐輪場に置いて下さい。\n関西学院",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "防犯連絡所\nこどもをまもる110の家(店)\nあぶないときはにげてきてね！！\n門をはいってすぐひだりのたてものに、にげてね",
+        "pictograms": [
+          "鳥のキャラクター",
+          "地図",
+          "ココ"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2021-11-07T13:37:40",
+    "location": {
+      "lat": 34.7689,
+      "lng": 135.3495
+    },
+    "original_image": "IMG_2128.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2115",
+    "image": "images/IMG_2115.JPG",
+    "signs": [
+      {
+        "text": "立入禁止\nKEEP OUT\n新幹線の用地内に無断で立ち入ると法律により罰せられます\nJR西日本 新幹線鉄道事業本部",
+        "pictograms": [
+          "ヘルメットを被った人",
+          "手のひらをこちらへ向ける",
+          "カメラ"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "あぶないから はいってはいけません！\nJR西日本 新幹線管理本部 神戸新幹線保線区",
+        "pictograms": [
+          "赤四角",
+          "ヘルメットを被った人",
+          "手のひらをこちらへ向ける"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2021-11-07T12:59:41",
+    "location": {
+      "lat": 34.7647,
+      "lng": 135.3549
+    },
+    "original_image": "IMG_2115.heic",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1567",
+    "image": "images/IMG_1567.JPG",
+    "signs": [
+      {
+        "text": "禁止\nゴミ捨て場ではありません！\nゴミは各自持ち帰りましょう\n北部みどり管理事務所",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2021-09-11T20:16:26",
+    "location": {
+      "lat": 35.0066,
+      "lng": 135.7711
+    },
+    "original_image": "IMG_1567.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1162",
+    "image": "images/IMG_1162.JPG",
+    "signs": [
+      {
+        "text": "当店は台車・番重を放置しません！\n台車放置禁止！\n台車立てかけ禁止！\n番重立てかけ禁止！\n膝下番重禁止！\n注意！\nSTOP! 転倒事故\nお客さまに安全・安心にご利用いただくため当店では台車・番重を放置しません。",
+        "pictograms": [
+          "バツ",
+          "台車の写真",
+          "番重の写真",
+          "黄三角",
+          "台車",
+          "転倒する人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2021-07-25T13:38:22",
+    "location": {
+      "lat": 34.9865,
+      "lng": 135.759
+    },
+    "original_image": "IMG_1162.heic",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1088",
+    "image": "images/IMG_1088.JPG",
+    "signs": [
+      {
+        "text": "本日分 売り切れ頂きました．\nありがとうございます．",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "手書き"
+        ]
+      }
+    ],
+    "date": "2021-07-22T18:27:52",
+    "location": {
+      "lat": 34.6786,
+      "lng": 135.8305
+    },
+    "original_image": "IMG_1088.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_0681",
+    "image": "images/IMG_0681.JPG",
+    "signs": [
+      {
+        "text": "駐輪場ご利用のお客様へ\n注意\nこの場所はパチンコされるお客様以外の駐輪は固くお断わり致します。\n放置して行かれたバイク・自転車等は処分致します。\n遊技場 ロンドン",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "（曲り角に付）\n駐輪禁止",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2021-07-03T18:11:43",
+    "location": {
+      "lat": 34.694,
+      "lng": 135.7846
+    },
+    "original_image": "IMG_0681.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_0662",
+    "image": "images/IMG_0662.JPG",
+    "signs": [
+      {
+        "text": "ここは公団住宅居住者の玄関入口です\n該場所に放置自転車等を置くことは禁止します\nUR都市住宅機構",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2021-07-03T14:31:04",
+    "location": {
+      "lat": 34.6929,
+      "lng": 135.7838
+    },
+    "original_image": "IMG_0662.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_9358",
     "image": "images/IMG_9358.JPG",
     "signs": [
@@ -179,7 +1273,9 @@
       "lat": 34.6937,
       "lng": 135.7834
     },
-    "original_image": "IMG_9358.HEIC"
+    "original_image": "IMG_9358.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_8116",
@@ -206,7 +1302,9 @@
       "lat": 35.0097,
       "lng": 135.7693
     },
-    "original_image": "IMG_8116.HEIC"
+    "original_image": "IMG_8116.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_7162",
@@ -229,7 +1327,9 @@
       "lat": 34.6939,
       "lng": 135.7836
     },
-    "original_image": "IMG_7162.jpg"
+    "original_image": "IMG_7162.jpg",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_4856",
@@ -247,7 +1347,7 @@
           "en",
           "zh",
           "ko",
-          "multi"
+          "_multi"
         ],
         "form": [
           "壁",
@@ -260,7 +1360,9 @@
       "lat": 35.715,
       "lng": 139.775
     },
-    "original_image": "IMG_4856.HEIC"
+    "original_image": "IMG_4856.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_4583",
@@ -283,7 +1385,9 @@
       "lat": 34.8046,
       "lng": 135.4555
     },
-    "original_image": "IMG_4583.HEIC"
+    "original_image": "IMG_4583.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_4324_2",
@@ -321,7 +1425,9 @@
       "lat": 34.6975,
       "lng": 135.5122
     },
-    "original_image": "IMG_4324_2.heic"
+    "original_image": "IMG_4324_2.heic",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_4324",
@@ -351,7 +1457,9 @@
       "lat": 34.6975,
       "lng": 135.5122
     },
-    "original_image": "IMG_4324.heic"
+    "original_image": "IMG_4324.heic",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_4147",
@@ -374,7 +1482,9 @@
       "lat": 34.6697,
       "lng": 135.4981
     },
-    "original_image": "IMG_4147.HEIC"
+    "original_image": "IMG_4147.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_1689",
@@ -404,7 +1514,37 @@
       "lat": 34.6464,
       "lng": 135.5135
     },
-    "original_image": "IMG_1689.HEIC"
+    "original_image": "IMG_1689.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1625",
+    "image": "images/IMG_1625.JPG",
+    "signs": [
+      {
+        "text": "I have the English menu in the store.\n(I'm sorry, but there isn’t an employee who can communicate.)\n准备中文的菜单。（能中文会话的服务员不折）\n準備中文的菜單。（能中文會話的服務員不折）\n한국어의 메뉴를 준비하고 있습니다. (한국어회화를 할 수 있는 서비스계는 접지 않습니다.)",
+        "pictograms": [],
+        "language": [
+          "en",
+          "zh",
+          "zh",
+          "ko",
+          "_multi"
+        ],
+        "form": [
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2019-01-02T17:53:12",
+    "location": {
+      "lat": 34.6989,
+      "lng": 135.4928
+    },
+    "original_image": "IMG_1625.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
     "id": "IMG_1516",
@@ -429,7 +1569,9 @@
       "lat": 34.8202,
       "lng": 135.5223
     },
-    "original_image": "IMG_1516.HEIC"
+    "original_image": "IMG_1516.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_1464",
@@ -453,7 +1595,9 @@
       "lat": 34.6835,
       "lng": 135.8285
     },
-    "original_image": "IMG_1464.HEIC"
+    "original_image": "IMG_1464.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_1460",
@@ -487,7 +1631,9 @@
       "lat": 34.6841,
       "lng": 135.8287
     },
-    "original_image": "IMG_1460.HEIC"
+    "original_image": "IMG_1460.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_1017",
@@ -521,7 +1667,9 @@
       "lat": 34.8088,
       "lng": 135.4947
     },
-    "original_image": "IMG_1017.heic"
+    "original_image": "IMG_1017.heic",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_1016",
@@ -544,7 +1692,34 @@
       "lat": 34.8088,
       "lng": 135.4946
     },
-    "original_image": "IMG_1016.HEIC"
+    "original_image": "IMG_1016.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1010",
+    "image": "images/IMG_1010.JPG",
+    "signs": [
+      {
+        "text": "Street vendors\nLive on the street\nFine\n50000",
+        "pictograms": [],
+        "language": [
+          "en"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2018-10-13T19:54:59",
+    "location": {
+      "lat": 34.6494,
+      "lng": 135.506
+    },
+    "original_image": "IMG_1010.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
     "id": "IMG_0632",
@@ -567,7 +1742,9 @@
       "lat": 34.0646,
       "lng": 132.9935
     },
-    "original_image": "IMG_0632.HEIC"
+    "original_image": "IMG_0632.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_0103",
@@ -590,7 +1767,9 @@
       "lat": 34.7973,
       "lng": 135.4486
     },
-    "original_image": "IMG_0103.JPG"
+    "original_image": "IMG_0103.JPG",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_9863",
@@ -617,7 +1796,9 @@
       "lat": 34.8057,
       "lng": 135.5362
     },
-    "original_image": "IMG_9863.HEIC"
+    "original_image": "IMG_9863.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_9420",
@@ -644,7 +1825,42 @@
       "lat": 34.8355,
       "lng": 135.5123
     },
-    "original_image": "IMG_9420.HEIC"
+    "original_image": "IMG_9420.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_9002",
+    "image": "images/IMG_9002.JPG",
+    "signs": [
+      {
+        "text": "危ない！！立入禁止\nDanger!! Off-limits\n危险！！请别进入\n위험하다!! 출입금지",
+        "pictograms": [
+          "ヘルメットを被った人",
+          "手のひらをこちらへ向ける",
+          "赤四角バツ"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "ko",
+          "_multi"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2018-03-18T17:45:52",
+    "location": {
+      "lat": 34.706,
+      "lng": 135.4987
+    },
+    "original_image": "IMG_9002.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
     "id": "IMG_8915",
@@ -670,7 +1886,9 @@
       "lat": 34.8058,
       "lng": 135.5361
     },
-    "original_image": "IMG_8915.HEIC"
+    "original_image": "IMG_8915.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_8710",
@@ -697,7 +1915,9 @@
       "lat": 34.7088,
       "lng": 135.5025
     },
-    "original_image": "IMG_8710.JPG"
+    "original_image": "IMG_8710.JPG",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_1598",
@@ -716,7 +1936,7 @@
           "en",
           "zh",
           "ko",
-          "multi"
+          "_multi"
         ],
         "form": [
           "壁",
@@ -726,7 +1946,9 @@
     ],
     "date": "2017-10-23T10:22:31",
     "location": null,
-    "original_image": "IMG_1598.JPG"
+    "original_image": "IMG_1598.JPG",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_1296",
@@ -846,7 +2068,48 @@
     ],
     "date": "2017-08-16T11:26:11",
     "location": null,
-    "original_image": "IMG_1296.JPG"
+    "original_image": "IMG_1296.JPG",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_6953",
+    "image": "images/IMG_6953.JPG",
+    "signs": [
+      {
+        "text": "防犯監視中",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "お願い\n1 自転車、バイクなどを乗り入れないこと。\n2 物品等を販売したり、宣伝や勧誘などをしないこと。\n3 通行を妨げるなど、他人に迷惑をかけないこと。\n豊橋市長\n豊橋駅長\n豊橋警察署長\nATTENTION!\n1 The riding bicycles and motor bikes is strictly prohibited.\n2 Selling, advertising and canvassing in this area is strictly prohibited.\n3 Preventing smooth walking and giving annoyance to others is strictly prohibited.\nMayor of Toyohashi City\nStationmaster of Toyohashi Station\nChief of Toyohashi Police Station\nATENÇÃO!\n1 PROIBIDA A ENTRADA DE MOTOS OU BICICLETAS.\n2 PROIBIDO QUALQUER TIPO DE COMÉRCIO OU PROPAGANDA.\n3 FAVOR NÃO INCOMODAR A PASSAGEM ETC. DE OUTROS.\nPrefeito da Cidade de Toyohashi\nChefe da Estação de Toyohashi\nDelegado da Policia de Toyohashi",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en",
+          "pt",
+          "_multi"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2017-08-15T21:52:34",
+    "location": {
+      "lat": 34.7629,
+      "lng": 137.3819
+    },
+    "original_image": "IMG_6953.jpg",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
     "id": "IMG_6329",
@@ -857,6 +2120,7 @@
         "pictograms": [
           "黄三角",
           "滑る人",
+          "ぎざぎざ",
           "！"
         ],
         "language": [
@@ -873,7 +2137,9 @@
       "lat": 34.805,
       "lng": 135.5338
     },
-    "original_image": "IMG_6329.JPG"
+    "original_image": "IMG_6329.JPG",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_6325",
@@ -896,7 +2162,9 @@
       "lat": 34.833,
       "lng": 135.4986
     },
-    "original_image": "IMG_6325.JPG"
+    "original_image": "IMG_6325.JPG",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_6216",
@@ -920,7 +2188,9 @@
       "lat": 34.6958,
       "lng": 135.5119
     },
-    "original_image": "IMG_6216.JPG"
+    "original_image": "IMG_6216.JPG",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_6211",
@@ -954,7 +2224,9 @@
       "lat": 34.6994,
       "lng": 135.5116
     },
-    "original_image": "IMG_6211.JPG"
+    "original_image": "IMG_6211.JPG",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_5870",
@@ -965,7 +2237,7 @@
         "pictograms": [
           "黄ダイヤ",
           "人",
-          "衝突",
+          "ぎざぎざ",
           "自転車に乗る人"
         ],
         "language": [
@@ -982,6 +2254,139 @@
       "lat": 34.8059,
       "lng": 135.5314
     },
-    "original_image": "IMG_5870.JPG"
+    "original_image": "IMG_5870.JPG",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5758",
+    "image": "images/IMG_5758.JPG",
+    "signs": [
+      {
+        "text": "化粧室\nBANHEIRO",
+        "pictograms": [
+          "矢印",
+          "人"
+        ],
+        "language": [
+          "ja",
+          "pt"
+        ],
+        "form": [
+          "天井",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2017-03-24T16:06:13",
+    "location": {
+      "lat": 36.2936,
+      "lng": 139.3777
+    },
+    "original_image": "IMG_5758.JPG",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_5011",
+    "image": "images/IMG_5011.JPG",
+    "signs": [
+      {
+        "text": "お知らせ\n窓口ロビーの禁煙を実施しております。\n皆様のご理解、ご協力をお願い申し上げます。\nNo Smoking\nПОМЕЩЕНИИ\n小樽郵便局長",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "ru",
+          "_multi"
+        ],
+        "form": [
+          "ガラス",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2016-12-28T13:45:21",
+    "location": {
+      "lat": 43.1972,
+      "lng": 141.0017
+    },
+    "original_image": "IMG_5011.jpg",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_5008",
+    "image": "images/IMG_5008.JPG",
+    "signs": [
+      {
+        "text": "いらっしゃいませ。\nWelcome to Otaru Canal Terminal.\nДобро пожаловать!\n어서 오십시오. \n歡迎光臨",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en",
+          "ru",
+          "ko",
+          "zh",
+          "_multi"
+        ],
+        "form": [
+          "ガラス",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "段差にご注意ください\nPlease watch your step.",
+        "pictograms": [
+          "段差",
+          "ぎざぎざ",
+          "転びそうな人"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "ガラス",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2016-12-28T13:36:29",
+    "location": {
+      "lat": 43.1971,
+      "lng": 141.002
+    },
+    "original_image": "IMG_5008.JPG",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3531",
+    "image": "images/IMG_3531.JPG",
+    "signs": [
+      {
+        "text": "ESTACIONAMENTO PROIBIDO\nIGREJA CATÓLICA",
+        "pictograms": [],
+        "language": [
+          "pt"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2016-06-05T18:29:35",
+    "location": {
+      "lat": 36.2993,
+      "lng": 139.3784
+    },
+    "original_image": "IMG_3531.jpg",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   }
 ]
