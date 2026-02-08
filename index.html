@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanban Board</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Kanban Board</h1>
+            <button id="feedbackBtn" class="feedback-btn">Give Feedback</button>
+        </header>
+        
+        <div class="board">
+            <div class="column" data-status="todo">
+                <div class="column-header">
+                    <h2>To Do</h2>
+                    <span class="task-count">0</span>
+                </div>
+                <div class="tasks" id="todo-tasks"></div>
+                <button class="add-task-btn" data-column="todo">+ Add Task</button>
+            </div>
+            
+            <div class="column" data-status="in-progress">
+                <div class="column-header">
+                    <h2>In Progress</h2>
+                    <span class="task-count">0</span>
+                </div>
+                <div class="tasks" id="in-progress-tasks"></div>
+                <button class="add-task-btn" data-column="in-progress">+ Add Task</button>
+            </div>
+            
+            <div class="column" data-status="done">
+                <div class="column-header">
+                    <h2>Done</h2>
+                    <span class="task-count">0</span>
+                </div>
+                <div class="tasks" id="done-tasks"></div>
+                <button class="add-task-btn" data-column="done">+ Add Task</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Feedback Modal -->
+    <div id="feedbackModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Share Your Feedback</h2>
+            <form id="feedbackForm">
+                <div class="form-group">
+                    <label for="feedbackType">Feedback Type:</label>
+                    <select id="feedbackType" required>
+                        <option value="">Select type...</option>
+                        <option value="bug">Bug Report</option>
+                        <option value="feature">Feature Request</option>
+                        <option value="improvement">Improvement</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="feedbackText">Your Feedback:</label>
+                    <textarea id="feedbackText" rows="5" placeholder="Please describe your feedback..." required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="feedbackEmail">Email (optional):</label>
+                    <input type="email" id="feedbackEmail" placeholder="your@email.com">
+                </div>
+                <button type="submit" class="submit-btn">Submit Feedback</button>
+            </form>
+        </div>
+    </div>
+    
+    <!-- Task Modal -->
+    <div id="taskModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="taskModalTitle">Add New Task</h2>
+            <form id="taskForm">
+                <div class="form-group">
+                    <label for="taskTitle">Task Title:</label>
+                    <input type="text" id="taskTitle" placeholder="Enter task title..." required>
+                </div>
+                <div class="form-group">
+                    <label for="taskDescription">Description:</label>
+                    <textarea id="taskDescription" rows="3" placeholder="Enter task description..."></textarea>
+                </div>
+                <button type="submit" class="submit-btn">Save Task</button>
+            </form>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
