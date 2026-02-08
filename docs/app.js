@@ -21,6 +21,8 @@ class CorpusViewer {
             'vi': 'Tiếng Việt',
             'ko': '한국어',
             'de': 'Deutsch',
+            'es': 'Español',
+            'fr': 'Français',
             'pt': 'Português',
             'ru': 'Русский',
             '_multi': '多言語'

@@ -1,5 +1,403 @@
 [
   {
+    "id": "IMG_1719",
+    "image": "images/IMG_1719.JPG",
+    "signs": [
+      {
+        "text": "To board this train. a Limited Express ticket is required in addition to a basic fare ticket.\n乘坐该列车需要另外购买特快券\n이 열차에 승차하려면 별도 특급권이 필요합니다.\nこの列車に乗るには別途特急券が必要です\nBasic fare\n普通票价\n보통운임\n普通運賃\n+\nLtd. Exp. fare\n特快票价\n특급요금\n特急料金",
+        "pictograms": [
+          "矢印",
+          "⚠️",
+          "特急電車の写真"
+        ],
+        "language": [
+          "en",
+          "zh-Hans",
+          "ko",
+          "ja",
+          "_multi"
+        ],
+        "form": [
+          "地面"
+        ]
+      }
+    ],
+    "date": "2026-02-07T22:18:41",
+    "location": {
+      "lat": 34.9381,
+      "lng": 135.7666
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "桃山筒井伊賀東町"
+    },
+    "original_image": "IMG_1719.HEIC",
+    "notes": "近鉄丹波橋",
+    "link": null
+  },
+  {
+    "id": "IMG_1717",
+    "image": "images/IMG_1717.JPG",
+    "signs": [
+      {
+        "text": "この付近は大変混雑します。\n立ち止まらないでください。\n请不要在此停留。請不要止步。\nDo not stop in this area.",
+        "pictograms": [
+          "赤丸斜線",
+          "人々"
+        ],
+        "language": [
+          "ja",
+          "ko",
+          "zh-Hans",
+          "en",
+          "_multi"
+        ],
+        "form": [
+          "地面"
+        ]
+      }
+    ],
+    "date": "2026-02-07T21:53:39",
+    "location": {
+      "lat": 35.0039,
+      "lng": 135.7721
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "川端町"
+    },
+    "original_image": "IMG_1717.heic",
+    "notes": "祇園四条",
+    "link": null
+  },
+  {
+    "id": "IMG_1698",
+    "image": "images/IMG_1698.JPG",
+    "signs": [
+      {
+        "text": "二条城敷地内では、無人航空機（ドローン）の飛行は禁止しています。\n発見した場合、管察に通報する場合があります。\nUnmanned aerial vehicles (drones) are prohibited on the Nijo-jo Castle grounds.\nIf found, the police may be notified\nドローン使用禁止\nDrone ban",
+        "pictograms": [
+          "赤丸斜線",
+          "ドローン",
+          "コントローラ"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2026-02-07T15:12:35",
+    "location": {
+      "lat": 35.0144,
+      "lng": 135.7463
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "西ノ京式部町"
+    },
+    "original_image": "IMG_1698.heic",
+    "notes": "二条城",
+    "link": null
+  },
+  {
+    "id": "IMG_1697",
+    "image": "images/IMG_1697.JPG",
+    "signs": [
+      {
+        "text": "危険\nDanger\n危险\n危險\n위험\nDanger\nPeligro",
+        "pictograms": [
+          "⚠️"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "zh-Hant",
+          "ko",
+          "fr",
+          "es",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-02-07T15:00:10",
+    "location": {
+      "lat": 35.0134,
+      "lng": 135.747
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "西ノ京式部町"
+    },
+    "original_image": "IMG_1697.HEIC",
+    "notes": "二条城",
+    "link": null
+  },
+  {
+    "id": "IMG_1694",
+    "image": "images/IMG_1694.JPG",
+    "signs": [
+      {
+        "text": "禁煙\nNo smoking\n禁烟\n禁煙\n금연\nDéfense de fumer\nProhibido fumar",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "zh-Hant",
+          "ko",
+          "fr",
+          "es",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-02-07T14:58:38",
+    "location": {
+      "lat": 35.0135,
+      "lng": 135.7471
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "西ノ京式部町"
+    },
+    "original_image": "IMG_1694.HEIC",
+    "notes": "二条城",
+    "link": null
+  },
+  {
+    "id": "IMG_1663",
+    "image": "images/IMG_1663.JPG",
+    "signs": [
+      {
+        "text": "芝生内に入らないでください\nPlease do not walk on the lawn.\n请勿进入草坪内\n請勿進入草坪\n잔디에 들어가지 마세요\nPrière de ne pas marcher sur la pelouse\nSe ruega no pisar el césped",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "zh-Hant",
+          "ko",
+          "fr",
+          "es",
+          "_multi"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "落書き禁止\nNo Graffiti\n禁止涂鸦\n禁止塗鴉\n낙서금지\nGraffitis interdits\nProhibido hacer pintadas",
+        "pictograms": [
+          "赤丸斜線",
+          "鉛筆"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "zh-Hant",
+          "ko",
+          "fr",
+          "es",
+          "_multi"
+        ],
+        "form": [
+          "ロープ",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-02-07T13:50:15",
+    "location": {
+      "lat": 35.0126,
+      "lng": 135.7504
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "池元町"
+    },
+    "original_image": "IMG_1663.HEIC",
+    "notes": "二条城",
+    "link": null
+  },
+  {
+    "id": "IMG_1669",
+    "image": "images/IMG_1669.JPG",
+    "signs": [
+      {
+        "text": "階段に登らないで下さい\nPlease do not climb the stairs\n请勿攀爬楼梯\n弟請勿攀登樓梯\n계단여 올라가지 마세요\nPrière de ne pas monter sur l'escalier\nSe ruega no subir por las escaleras",
+        "pictograms": [
+          "赤丸斜線",
+          "階段",
+          "人"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "zh-Hant",
+          "ko",
+          "fr",
+          "es",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-02-07T14:38:02",
+    "location": {
+      "lat": 35.0134,
+      "lng": 135.7496
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "二条城町"
+    },
+    "original_image": "IMG_1669.HEIC",
+    "notes": "二条城",
+    "link": null
+  },
+  {
+    "id": "IMG_1591",
+    "image": "images/IMG_1591.JPG",
+    "signs": [
+      {
+        "text": "鉄道用地内において駅長の許可なく次のことを行うことを禁じます。\n●旅客、公衆に対して寄付をもとめること、\n●旅客、公衆に対して物品の販買をすること、\n● 旅客、公衆に対して物品の配布をすること、\n● 演説勧誘等を行うこと、\nその他みだりに鉄道用地に立入ることを禁じます。\n駅長",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-01-30T18:57:22",
+    "location": {
+      "lat": 35.6552,
+      "lng": 139.757
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": null,
+      "city": "港区",
+      "district": "海岸一丁目"
+    },
+    "original_image": "IMG_1591.HEIC",
+    "notes": "浜松町",
+    "link": null
+  },
+  {
+    "id": "IMG_1590",
+    "image": "images/IMG_1590.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\n出入り口付近には駐輪しないでください\n駅長",
+        "pictograms": [
+          "赤四角斜線"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "扉",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2026-01-30T10:37:15",
+    "location": {
+      "lat": 35.6564,
+      "lng": 139.7572
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": null,
+      "city": "港区",
+      "district": "浜松町二丁目"
+    },
+    "original_image": "IMG_1590.HEIC",
+    "notes": "浜松町",
+    "link": null
+  },
+  {
+    "id": "IMG_1588",
+    "image": "images/IMG_1588.JPG",
+    "signs": [
+      {
+        "text": "落滴注意",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "カラーコーン",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2026-01-30T10:20:40",
+    "location": {
+      "lat": 35.6282,
+      "lng": 139.7385
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": null,
+      "city": "港区",
+      "district": "港南二丁目"
+    },
+    "original_image": "IMG_1588.HEIC",
+    "notes": "浜松町",
+    "link": null
+  },
+  {
     "id": "IMG_2899",
     "image": "images/IMG_2899.JPG",
     "signs": [
@@ -90,7 +488,7 @@
     "image": "images/IMG_4149.JPG",
     "signs": [
       {
-        "text": "CAUTION\nWET FLOOR\nCHÚ Ý\nSÀN ƯỚT",
+        "text": "CAUTION WET FLOOR\nCHÚ Ý SÀN ƯỚT",
         "pictograms": [
           "黄三角",
           "滑る人"
@@ -1984,6 +2382,41 @@
     "link": null
   },
   {
+    "id": "IMG_2677",
+    "image": "images/IMG_2677.JPG",
+    "signs": [
+      {
+        "text": "禁帶寵物入内",
+        "pictograms": [
+          "赤丸斜線",
+          "犬"
+        ],
+        "language": [
+          "zh-Hant"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2019-05-05T20:15:40",
+    "location": {
+      "lat": 22.6333,
+      "lng": 120.2962
+    },
+    "location_info": {
+      "country": "臺灣",
+      "country_code": "tw",
+      "province": null,
+      "city": "高雄市",
+      "district": "草江里"
+    },
+    "original_image": "IMG_2677.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_1689",
     "image": "images/IMG_1689.JPG",
     "signs": [
@@ -2550,7 +2983,7 @@
     "location": null,
     "location_info": null,
     "original_image": "IMG_1598.JPG",
-    "notes": null,
+    "notes": "千里中央",
     "link": null
   },
   {
