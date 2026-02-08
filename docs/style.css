@@ -84,25 +84,27 @@ body {
     flex-wrap: wrap;
     gap: var(--spacing-lg);
     margin-bottom: var(--spacing-lg);
+    align-items: center;
 }
 
 .filter-group {
-    flex: 1;
-    min-width: 250px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 .filter-group label {
-    display: block;
     font-weight: 600;
-    margin-bottom: var(--spacing-sm);
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     color: #666;
+    white-space: nowrap;
+    margin-bottom: 0;
 }
 
 .filter-select {
-    width: 100%;
+    width: fit-content;
     padding: 0.5rem;
     border: 1px solid var(--color-border);
     border-radius: 4px;
@@ -334,16 +336,25 @@ body {
     background: var(--color-bg);
     border-radius: 6px;
     border-left: 3px solid #bbb;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.info-meta {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
 }
 
 .meta-item strong {
-    display: block;
-    margin-top: 0.5rem;
-    margin-bottom: 0.25rem;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     color: #666;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-top: 0.1rem;
 }
 
 .meta-item div {
@@ -360,13 +371,37 @@ body {
     margin-top: 0.25rem;
 }
 
+.language-tag {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    background: #dbeafe;
+    color: #2563eb;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-right: 0.4rem;
+    margin-bottom: 0.3rem;
+}
+
+.form-tag {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    background: #e0e0e0;
+    color: #636363;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-right: 0.4rem;
+    margin-bottom: 0.3rem;
+}
+
 .pictogram-tag {
-    padding: 0.5rem 0.75rem;
-    background: var(--color-accent-light);
-    color: var(--color-accent);
-    border-radius: 4px;
-    font-size: 0.85rem;
-    font-weight: 600;
+    padding: 0.2rem 0.5rem;
+    background: #fce7f3;
+    color: #ec4899;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    font-weight: 500;
 }
 
 .signs-list {
@@ -407,18 +442,32 @@ body {
 
 .sign-meta {
     display: flex;
-    gap: var(--spacing-md);
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 0.4rem;
     font-size: 0.8rem;
 }
 
-.sign-meta span {
+.meta-line {
     display: flex;
-    gap: 0.25rem;
+    align-items: flex-start;
+    gap: 0.5rem;
 }
 
 .sign-meta strong {
     color: #666;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+}
+
+.language-tags,
+.form-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
 }
 
 @media (max-width: 768px) {
@@ -441,6 +490,7 @@ body {
     }
 
     .filter-group {
+        display: inline-block;
         min-width: 100%;
     }
 

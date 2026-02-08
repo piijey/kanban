@@ -7,7 +7,7 @@ class CorpusViewer {
             searchText: '',
             searchPictogram: '',
             languages: new Set(),
-            forms: new Set(),
+            /*forms: new Set(),*/
         };
         this.currentModal = null;
         
@@ -53,6 +53,7 @@ class CorpusViewer {
         });
 
         // 形態フィルタ
+        /*
         document.getElementById('formSelect').addEventListener('change', (e) => {
             this.filters.forms.clear();
             if (e.target.value) {
@@ -60,6 +61,7 @@ class CorpusViewer {
             }
             this.applyFilters();
         });
+        */
 
         // モーダルクローズ
         document.querySelector('.modal-close').addEventListener('click', () => {
@@ -101,6 +103,7 @@ class CorpusViewer {
         });
 
         // 形態セレクト
+        /*
         const formSelect = document.getElementById('formSelect');
         Array.from(forms).sort().forEach(form => {
             const option = document.createElement('option');
@@ -108,6 +111,7 @@ class CorpusViewer {
             option.textContent = form;
             formSelect.appendChild(option);
         });
+        */
     }
 
     applyFilters() {
@@ -137,12 +141,14 @@ class CorpusViewer {
             }
 
             // 形態フィルタ
+            /*
             if (this.filters.forms.size > 0) {
                 const hasForm = item.signs.some(sign => 
                     sign.form?.some(form => this.filters.forms.has(form))
                 );
                 if (!hasForm) return false;
             }
+            */
 
             return true;
         });
@@ -208,8 +214,10 @@ class CorpusViewer {
             signHtml += `<div class="sign-text">${this.escapeHtml(sign.text)}</div>`;
 
             signHtml += `<div class="sign-meta">`;
-            signHtml += `<span><strong>言語:</strong> ${(sign.language || []).join(', ') || 'N/A'}</span>`;
-            signHtml += `<span><strong>形態:</strong> ${(sign.form || []).join(', ') || 'N/A'}</span>`;
+            signHtml += `<div class="meta-line"><strong>言語:</strong><div class="language-tags">${(sign.language || []).map(lang => `<span class="language-tag">${lang}</span>`).join('')}</div></div>`;
+            /*
+            signHtml += `<div class="meta-line"><strong>形態:</strong><div class="form-tags">${(sign.form || []).map(form => `<span class="form-tag">${form}</span>`).join('')}</div></div>`;
+            */
             signHtml += `</div>`;
 
             if (sign.pictograms && sign.pictograms.length > 0) {
@@ -228,18 +236,9 @@ class CorpusViewer {
         const imageMeta = document.getElementById('imageMeta');
         imageMeta.innerHTML = `
             <div class="meta-item">
-                <div class="info-meta">
-                    <strong>撮影日:</strong>
-                    <div>${item.date ? new Date(item.date).toLocaleDateString('ja-JP') : 'N/A'}</div>
-                </div>
-                <div class="info-meta">
-                    <strong>位置情報:</strong>
-                    <div>${item.location ? `${item.location.lat}, ${item.location.lng}` : 'N/A'}</div>
-                </div>
-                <div class="info-meta">
-                    <strong>ファイル名:</strong>
-                    <div>${item.original_image || 'N/A'}</div>
-                </div>
+                <div class="info-meta"><strong>撮影日:</strong><div>${item.date ? new Date(item.date).toLocaleDateString('ja-JP') : 'N/A'}</div></div>
+                <div class="info-meta"><strong>位置情報:</strong><div>${item.location ? `${item.location.lat}, ${item.location.lng}` : 'N/A'}</div></div>
+                <div class="info-meta"><strong>ファイル名:</strong><div>${item.original_image || 'N/A'}</div></div>
             </div>
         `;
 
