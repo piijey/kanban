@@ -398,6 +398,443 @@
     "link": null
   },
   {
+    "id": "IMG_1525",
+    "image": "images/IMG_1525.JPG",
+    "signs": [
+      {
+        "text": "自転車・バイク\n駐輪禁止",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車",
+          "バイク"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-01-24T12:20:53",
+    "location": {
+      "lat": 34.6852,
+      "lng": 135.8287
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "登大路町"
+    },
+    "original_image": "IMG_1525.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1405",
+    "image": "images/IMG_1405.JPG",
+    "signs": [
+      {
+        "text": "線路内立ち入り禁止\nDo not enter the tracks\n严禁进入铁路内\n선로 내 출입금지\n線路へ物を落とされたときは係員にお知らせください\nIf you drop something on the tracks, please contact station staff.",
+        "pictograms": [
+          "赤丸斜線",
+          "電車",
+          "線路",
+          "走る人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-01-07T20:56:27",
+    "location": {
+      "lat": 34.6855,
+      "lng": 135.8112
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "恋の窪東町"
+    },
+    "original_image": "IMG_1405.HEIC",
+    "notes": "新大宮",
+    "link": null
+  },
+  {
+    "id": "IMG_1395",
+    "image": "images/IMG_1395.JPG",
+    "signs": [
+      {
+        "text": "飲み水ではありません。\nDo not drink.",
+        "pictograms": [
+          "赤丸斜線",
+          "蛇口",
+          "コップに水"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2026-01-05T22:27:20",
+    "location": {
+      "lat": 34.973,
+      "lng": 135.8826
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "滋賀県",
+      "city": "大津市",
+      "district": null
+    },
+    "original_image": "IMG_1395.HEIC",
+    "notes": "新幹線のぞみ",
+    "link": null
+  },
+  {
+    "id": "IMG_1217",
+    "image": "images/IMG_1217.JPG",
+    "signs": [
+      {
+        "text": "NO FOOD NO DRINK\n飲食はご遠慮ください",
+        "pictograms": [
+          "赤丸斜線",
+          "カップ飲料",
+          "串"
+        ],
+        "language": [
+          "en",
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-12-26T12:19:29",
+    "location": {
+      "lat": 35.0051,
+      "lng": 135.7669
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "東大文字町"
+    },
+    "original_image": "IMG_1217.heic",
+    "notes": null,
+    "link": "https://x.com/xiPJ/status/2004831692180410394"
+  },
+  {
+    "id": "IMG_1208",
+    "image": "images/IMG_1208.JPG",
+    "signs": [
+      {
+        "text": "自転車通行は 終日通行禁止\n《三条寺町～河原町）\n中京警察署\n三条商店街(振)\n駐輪・駐車禁止",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-12-26T08:55:07",
+    "location": {
+      "lat": 35.0087,
+      "lng": 135.7688
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "石橋町"
+    },
+    "original_image": "IMG_1208.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1179",
+    "image": "images/IMG_1179.JPG",
+    "signs": [
+      {
+        "text": "ここはゴミ箱ではありません\nごみを捨てないでください\nDon't throw trash here",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2025-12-24T20:27:47",
+    "location": {
+      "lat": 34.6935,
+      "lng": 135.7833
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "西大寺新田町"
+    },
+    "original_image": "IMG_1179.heic",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1177",
+    "image": "images/IMG_1177.JPG",
+    "signs": [
+      {
+        "text": "-",
+        "pictograms": [
+          "矢印",
+          "エスカレーターに乗る人",
+          "上矢印"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [
+          "矢印",
+          "エレベーターに乗る人々",
+          "上下矢印"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [
+          "赤丸斜線",
+          "手",
+          "丸めた紙"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-12-24T20:21:42",
+    "location": {
+      "lat": 34.6937,
+      "lng": 135.7835
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "西大寺新田町"
+    },
+    "original_image": "IMG_1177.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1176",
+    "image": "images/IMG_1176.JPG",
+    "signs": [
+      {
+        "text": "-",
+        "pictograms": [
+          "斜線",
+          "タバコ"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [
+          "斜線",
+          "犬"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [
+          "斜線",
+          "カップ飲料",
+          "ハンバーガー"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [
+          "斜線",
+          "カメラ"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-12-24T20:18:08",
+    "location": {
+      "lat": 34.6942,
+      "lng": 135.7856
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "青野町一丁目"
+    },
+    "original_image": "IMG_1176.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1161",
+    "image": "images/IMG_1161.JPG",
+    "signs": [
+      {
+        "text": "-",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "柱",
+          "看板"
+        ]
+      },
+      {
+        "text": "当店ではお車でご来店のお客様への酒類の販売をお断りしております。",
+        "pictograms": [
+          "赤丸斜線",
+          "徳利とお猪口",
+          "車"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柱",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-12-22T15:08:11",
+    "location": {
+      "lat": 34.7366,
+      "lng": 135.8209
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "木津川市",
+      "district": null
+    },
+    "original_image": "IMG_1161.jpg",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_2899",
     "image": "images/IMG_2899.JPG",
     "signs": [
@@ -2052,7 +2489,7 @@
       "district": "西大寺新田町"
     },
     "original_image": "IMG_9358.HEIC",
-    "notes": null,
+    "notes": "大和西大寺",
     "link": null
   },
   {
@@ -2128,7 +2565,7 @@
     "image": "images/IMG_4856.JPG",
     "signs": [
       {
-        "text": "危院！！立入禁止\nDanger!! Off-limits\n危险！！请别进入\n위험하다!! 출입금지",
+        "text": "危険！！立入禁止\nDanger!! Off-limits\n危险！！请别进入\n위험하다!! 출입금지",
         "pictograms": [
           "ヘルメットを被った人",
           "手のひらをこちらへ向ける",

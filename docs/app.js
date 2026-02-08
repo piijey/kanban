@@ -25,7 +25,8 @@ class CorpusViewer {
             'fr': 'Français',
             'pt': 'Português',
             'ru': 'Русский',
-            '_multi': '多言語'
+            '_multi': '多言語',
+            '-': 'テキストなし',
         };
         
         this.init();
@@ -193,7 +194,7 @@ class CorpusViewer {
             });
 
             // テキストプレビュー：各signから2行ずつ取得
-            let fullPreview = item.signs.map(s => {
+            let fullPreview = item.signs.filter(s => s.text !== '-').map(s => {
                 const lines = s.text.split('\n');
                 return lines.slice(0, 2).join('\n');
             }).join('\n');
@@ -228,7 +229,7 @@ class CorpusViewer {
             signDiv.className = `sign-item ${idx > 0 ? 'secondary' : ''}`;
 
             let signHtml = `<h3>Sign ${idx + 1}</h3>`;
-            signHtml += `<div class="sign-text">${this.escapeHtml(sign.text)}</div>`;
+            signHtml += `${sign.text !== '-' ? `<div class="sign-text">${this.escapeHtml(sign.text)}</div>` : ''}`;
 
             signHtml += `<div class="sign-meta">`;
             signHtml += `<div class="meta-line"><strong>言語:</strong><div class="language-tags">${(sign.language || []).map(lang => `<span class="language-tag">${this.languageNames[lang] || lang}</span>`).join('')}</div></div>`;
