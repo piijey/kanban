@@ -77,3 +77,4 @@ git push origin main
 |------|---------|
 | データを更新してプレビュー確認 | `python scripts/convert_heic_to_jpg.py && python scripts/xlsx2json.py && cd docs && python -m http.server 8000` |
 | ブラウザキャッシュをクリア | Chrome/Firefox: Cmd+Shift+R / Safari: Cmd+Option+R |
+| 既存プロセスを終了 | `lsof -i :8000` <br/> `kill -9 <PID>`|

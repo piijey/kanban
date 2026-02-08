@@ -1,41 +1,175 @@
 [
   {
-    "id": "IMG_0103",
-    "image": "images/IMG_0103.JPG",
+    "id": "IMG_9358",
+    "image": "images/IMG_9358.JPG",
     "signs": [
       {
-        "text": "駐輪禁止\n敷地内につき契約自転車以外の駐輪を厳禁する（有料）\n不法駐輪は直ちに撤去しますのでご承知下さい\nハイライフ蛍池管理組合\nハイライフ蛍池自治会",
+        "text": "自転車の自由通路への昇降（↓↑）はエレベーターをご利用ください",
         "pictograms": [],
         "language": [
           "ja"
         ],
         "form": [
-          "柵",
+          "壁",
           "看板"
         ]
-      }
-    ],
-    "date": "2018-08-10T18:51:37",
-    "location": {
-      "lat": 34.7973,
-      "lng": 135.4486
-    },
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_0103.JPG"
-  },
-  {
-    "id": "IMG_0632",
-    "image": "images/IMG_0632.JPG",
-    "signs": [
+      },
       {
-        "text": "駐輪禁止\nここは通路です。自転車置場ではありませんので自転車・バイクを至急撤去して下さい。\n平成　年　月　日 今治駅長",
+        "text": "南北自由通路\nSouth-North Promenade\n大和西大寺駅\nYamato-Saidaiji Station",
+        "pictograms": [
+          "エレベーター",
+          "人",
+          "自転車を押す人"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "禁止事項 Prohibited activities",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "自転車走行\nRiding a bicycle",
+        "pictograms": [
+          "赤丸斜線",
+          "倒れる人",
+          "衝突",
+          "自転車に乗る人"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "自転車駐輪\nBicydle parking",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "バイク乗り入れ\nRiding a motorcycle",
+        "pictograms": [
+          "赤丸斜線",
+          "バイク"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "喫煙\nSmoking",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "歩きスマホ\nUsing a smartphone while walking",
+        "pictograms": [
+          "赤丸斜線",
+          "スマホを持って歩く人"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "不法投棄\nIllegal dumping",
+        "pictograms": [
+          "赤丸斜線",
+          "手",
+          "丸めた紙"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "火器類の使用\nUse of fire",
+        "pictograms": [
+          "赤丸斜線",
+          "マッチ"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "●他の通行者の迷惑になる行為\n●危険の恐れのある行為\n●ポール遊び・ローラースケート・スケートポード\n●通路の損傷および汚損\n●座り込み・寝泊り\n●ポスターの掲示・看板の設置\n●物品の配布・販売\n●集会・デモ・演説",
         "pictograms": [],
         "language": [
           "ja"
         ],
         "form": [
-          "金網",
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "防犯カメラ作動中\nSecurity Cameras in Operation",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
           "看板"
         ]
       }
@@ -44,14 +178,95 @@
     "location": null,
     "tags": [],
     "notes": "",
-    "original_image": "IMG_0632.HEIC"
+    "original_image": "IMG_9358.HEIC"
   },
   {
-    "id": "IMG_1016",
-    "image": "images/IMG_1016.JPG",
+    "id": "IMG_8116",
+    "image": "images/IMG_8116.JPG",
     "signs": [
       {
-        "text": "警告\nこの付近に自転車又は、自動二輪を放置すると直ちに強制撤去します。\nせんちゅうパル運営統括事務所",
+        "text": "駐車禁止",
+        "pictograms": [
+          "警官",
+          "手のひらをこちらへ向ける",
+          "No!と書かれた板"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_8116.HEIC"
+  },
+  {
+    "id": "IMG_7162",
+    "image": "images/IMG_7162.jpg",
+    "signs": [
+      {
+        "text": "お願い！\n大変危険ですのでパーテンションをまたがないでください！",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "ロープ",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2020-07-28T16:57:09",
+    "location": {
+      "lat": 34.6939,
+      "lng": 135.7836
+    },
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_7162.jpg"
+  },
+  {
+    "id": "IMG_4856",
+    "image": "images/IMG_4856.JPG",
+    "signs": [
+      {
+        "text": "危院！！立入禁止\nDanger!! Off-limits\n危险！！请别进入\n위험하다!! 출입금지",
+        "pictograms": [
+          "ヘルメットを被った人",
+          "手のひらをこちらへ向ける",
+          "赤四角バツ"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "ko",
+          "multi"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_4856.HEIC"
+  },
+  {
+    "id": "IMG_4583",
+    "image": "images/IMG_4583.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\n駐輪場に止めること。\n基礎工学部長",
         "pictograms": [],
         "language": [
           "ja"
@@ -66,7 +281,204 @@
     "location": null,
     "tags": [],
     "notes": "",
-    "original_image": "IMG_1016.HEIC"
+    "original_image": "IMG_4583.HEIC"
+  },
+  {
+    "id": "IMG_4324_2",
+    "image": "images/IMG_4324_2.JPG",
+    "signs": [
+      {
+        "text": "時間帯禁煙\n平日11:30～14:00 禁煙\n平日14:00~18:00 喫煙\n平日18:00~最終 禁煙\n土・日・祝日は、すべての時間が禁煙になります。\nご協力お願いします。",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ",
+          "時計"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "ご注文が決まればレジ前カウンターでご注文して下さい。（料金は先払いになります。）\nお水のおかわりはセルフサービスになります。自由にどうぞ。",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_4324_2.heic"
+  },
+  {
+    "id": "IMG_4324",
+    "image": "images/IMG_4324.JPG",
+    "signs": [
+      {
+        "text": "かぶりつき厳禁！\n生煎包は、いきなりほおばろうとすると、熱いスープが飛び出し大変危険です。\n生煎包をレンゲに乗せ箸や口で穴をあけて、やけどに気をつけながらスープを楽しみください。\nその後、残った肉と皮をお召し上がり下さい。\n味はしっかりついています。先ずは何も付けずにそのままの味をお楽しみ下さい。その後、お好みで黒酢を付けて下さい。黒酢を付けるとさっぱと頂けます。",
+        "pictograms": [
+          "オレンジ三角",
+          "火",
+          "赤丸斜線",
+          "液体が飛び出す生煎包",
+          "レンゲにのった生煎包",
+          "皿の上に並んだ生煎包"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_4324.heic"
+  },
+  {
+    "id": "IMG_4147",
+    "image": "images/IMG_4147.JPG",
+    "signs": [
+      {
+        "text": "南区は終日駐車禁止です。\n我々区分所有者の有料駐車場の出入口です。ここに駐車されますと車の出入が出来ません。\n不法駐車されますとレッカー車を要請します。\n道頓堀区分所有者管理組合",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_4147.HEIC"
+  },
+  {
+    "id": "IMG_1689",
+    "image": "images/IMG_1689.JPG",
+    "signs": [
+      {
+        "text": "キケン\n携帯電話などを操作しながらホームを歩くのは大変危険です\n駅長",
+        "pictograms": [
+          "看板",
+          "黄ダイヤ",
+          "人",
+          "スマホ",
+          "電車",
+          "線路"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_1689.HEIC"
+  },
+  {
+    "id": "IMG_1516",
+    "image": "images/IMG_1516.JPG",
+    "signs": [
+      {
+        "text": "立入禁止",
+        "pictograms": [
+          "赤四角斜線"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "金網",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_1516.HEIC"
+  },
+  {
+    "id": "IMG_1464",
+    "image": "images/IMG_1464.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\nこの付近は自転車等の放置禁止区域です。\n移動されない場合、即撤去します。\n奈良市／奈良警察署／東向商店街協同組合",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "チェーン",
+          "貼紙",
+          "手書き"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_1464.HEIC"
+  },
+  {
+    "id": "IMG_1460",
+    "image": "images/IMG_1460.JPG",
+    "signs": [
+      {
+        "text": "告\nこの広場では、何人も許可なく次に掲げる行為をすることはできません。\n1. 物品の販売、宣伝、勧誘又は寄付の募集、その他これらに類すること。\n2. 業として写真、又は映像類を撮影すること。\n3. 展示会、その他にこれに類する催しのため広場の全部又は一部を独占して使用すること。\n4. 工作物を設置すること。\n5. 集会、又はこれに類すること。\n6. 広告物を掲示し、配布し、及び回覧し又は看板類を設置すること。\n7. 旗、幕、プラカード、その他これらに類するもの又は、拡声器等を持ち込み使用すること。\n8. ごみ、その他汚物を捨てること。\n9. 自動車等の乗り入れ、又はとめおくこと。\n10. その他、管理上特に必要と認めて禁止する事項。\n奈良市\n近鉄奈良駅長",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "駐輪禁止\n放置自転車・バイクは即撤去させて頂きます\n奈良警察署／東向商店街(協)",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_1460.HEIC"
   },
   {
     "id": "IMG_1017",
@@ -100,6 +512,212 @@
     "tags": [],
     "notes": "",
     "original_image": "IMG_1017.heic"
+  },
+  {
+    "id": "IMG_1016",
+    "image": "images/IMG_1016.JPG",
+    "signs": [
+      {
+        "text": "警告\nこの付近に自転車又は、自動二輪を放置すると直ちに強制撤去します。\nせんちゅうパル運営統括事務所",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_1016.HEIC"
+  },
+  {
+    "id": "IMG_0632",
+    "image": "images/IMG_0632.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\nここは通路です。自転車置場ではありませんので自転車・バイクを至急撤去して下さい。\n平成　年　月　日 今治駅長",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "金網",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_0632.HEIC"
+  },
+  {
+    "id": "IMG_0103",
+    "image": "images/IMG_0103.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\n敷地内につき契約自転車以外の駐輪を厳禁する（有料）\n不法駐輪は直ちに撤去しますのでご承知下さい\nハイライフ蛍池管理組合\nハイライフ蛍池自治会",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2018-08-10T18:51:37",
+    "location": {
+      "lat": 34.7973,
+      "lng": 135.4486
+    },
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_0103.JPG"
+  },
+  {
+    "id": "IMG_9863",
+    "image": "images/IMG_9863.JPG",
+    "signs": [
+      {
+        "text": "清掃中\nCAUTION\nぬれています\nご注意ください\nWET FLOOR",
+        "pictograms": [
+          "黄三角",
+          "滑る人"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "持ち運び",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_9863.HEIC"
+  },
+  {
+    "id": "IMG_9420",
+    "image": "images/IMG_9420.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\nNO BICYCLES PARKING",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_9420.HEIC"
+  },
+  {
+    "id": "IMG_8915",
+    "image": "images/IMG_8915.JPG",
+    "signs": [
+      {
+        "text": "清掃中\n足元にご注意！",
+        "pictograms": [
+          "黄三角",
+          "滑る人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "持ち運び",
+          "看板"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_8915.HEIC"
+  },
+  {
+    "id": "IMG_8710",
+    "image": "images/IMG_8710.JPG",
+    "signs": [
+      {
+        "text": "監視カメラ作動中\n犬のおしっこ禁止！\n罰金3万円",
+        "pictograms": [
+          "赤丸斜線",
+          "立ち小便する犬",
+          "電柱"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2018-01-27T15:40:07",
+    "location": {
+      "lat": 34.7088,
+      "lng": 135.5025
+    },
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_8710.JPG"
+  },
+  {
+    "id": "IMG_1598",
+    "image": "images/IMG_1598.JPG",
+    "signs": [
+      {
+        "text": "エサやり禁止\nハト・スズメ・小動物の糞害に困っています\nDon't Feed Bird & Animal\n喂食禁止\n먹이 주어 금지\nセルシー管理事務所",
+        "pictograms": [
+          "赤丸斜線",
+          "手",
+          "エサ",
+          "鳥"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh",
+          "ko",
+          "multi"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2017-10-23T10:22:31",
+    "location": null,
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_1598.JPG"
   },
   {
     "id": "IMG_1296",
@@ -146,7 +764,7 @@
         ]
       },
       {
-        "text": "天候により\n床すべり注意",
+        "text": "天候により 床すべり注意",
         "pictograms": [
           "青円",
           "滑る人"
@@ -160,7 +778,7 @@
         ]
       },
       {
-        "text": "ジェフグルメカード\n加盟店",
+        "text": "ジェフグルメカード加盟店",
         "pictograms": [
           "ロゴマーク",
           "全国共通お食事券ジェフグルメカード加盟店"
@@ -174,7 +792,7 @@
         ]
       },
       {
-        "text": "ペット\nご遠慮下さい",
+        "text": "ペット ご遠慮下さい",
         "pictograms": [
           "赤丸斜線",
           "犬"
@@ -188,7 +806,7 @@
         ]
       },
       {
-        "text": "未成年・運転者\n飲酒禁止",
+        "text": "未成年・運転者 飲酒禁止",
         "pictograms": [
           "赤丸斜線",
           "ビール",
@@ -224,22 +842,40 @@
     "original_image": "IMG_1296.JPG"
   },
   {
-    "id": "IMG_1460",
-    "image": "images/IMG_1460.JPG",
+    "id": "IMG_6329",
+    "image": "images/IMG_6329.JPG",
     "signs": [
       {
-        "text": "告\nこの広場では、何人も許可なく次に掲げる行為をすることはできません。\n1. 物品の販売、宣伝、勧誘又は寄付の募集、その他これらに類すること。\n2. 業として写真、又は映像類を撮影すること。\n3. 展示会、その他にこれに類する催しのため広場の全部又は一部を独占して使用すること。\n4. 工作物を設置すること。\n5. 集会、又はこれに類すること。\n6. 広告物を掲示し、配布し、及び回覧し又は看板類を設置すること。\n7. 旗、幕、プラカード、その他これらに類するもの又は、拡声器等を持ち込み使用すること。\n8. ごみ、その他汚物を捨てること。\n9. 自動車等の乗り入れ、又はとめおくこと。\n10. その他、管理上特に必要と認めて禁止する事項。\n奈良市\n近鉄奈良駅長",
-        "pictograms": [],
+        "text": "足元注意！\nすべりやすくなっておりますので、ご注意ください\nCAUTION!\nSLIPPERY SURFACE\nEXPOCITY エキスポシティ 三井ショッピングバーク LaLaport EXPOCITY",
+        "pictograms": [
+          "黄三角",
+          "滑る人",
+          "！"
+        ],
         "language": [
           "ja"
         ],
         "form": [
-          "壁",
+          "自立",
           "看板"
         ]
-      },
+      }
+    ],
+    "date": "2017-06-04T14:35:52",
+    "location": {
+      "lat": 34.805,
+      "lng": 135.5338
+    },
+    "tags": [],
+    "notes": "",
+    "original_image": "IMG_6329.JPG"
+  },
+  {
+    "id": "IMG_6325",
+    "image": "images/IMG_6325.JPG",
+    "signs": [
       {
-        "text": "駐輪禁止\n放置自転車・バイクは即撤去させて頂きます\n奈良警察署／東向商店街(協)",
+        "text": "もみじ保育園専用駐車場\n他車の車の駐車禁ずる\nもみじ保育園",
         "pictograms": [],
         "language": [
           "ja"
@@ -250,118 +886,40 @@
         ]
       }
     ],
-    "date": null,
-    "location": null,
+    "date": "2017-06-03T17:38:26",
+    "location": {
+      "lat": 34.833,
+      "lng": 135.4986
+    },
     "tags": [],
     "notes": "",
-    "original_image": "IMG_1460.HEIC"
+    "original_image": "IMG_6325.JPG"
   },
   {
-    "id": "IMG_1464",
-    "image": "images/IMG_1464.JPG",
+    "id": "IMG_6216",
+    "image": "images/IMG_6216.JPG",
     "signs": [
       {
-        "text": "駐輪禁止\nこの付近は自転車等の放置禁止区域です。\n移動されない場合、即撤去します。\n奈良市／奈良警察署／東向商店街協同組合",
+        "text": "店の前に自転車をとめないで下さい\nどうなってもしりません",
         "pictograms": [],
         "language": [
           "ja"
         ],
         "form": [
-          "チェーン",
+          "シャッター",
           "貼紙",
           "手書き"
         ]
       }
     ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_1464.HEIC"
-  },
-  {
-    "id": "IMG_1516",
-    "image": "images/IMG_1516.JPG",
-    "signs": [
-      {
-        "text": "立入禁止",
-        "pictograms": [
-          "赤四角斜線"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "金網",
-          "看板"
-        ]
-      }
-    ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_1516.HEIC"
-  },
-  {
-    "id": "IMG_1598",
-    "image": "images/IMG_1598.JPG",
-    "signs": [
-      {
-        "text": "エサやり禁止\nハト・スズメ・小動物の糞害に困っています\nDon't Feed Bird & Animal\n喂食禁止\n먹이 주어 금지\nセルシー管理事務所",
-        "pictograms": [
-          "赤丸斜線",
-          "手",
-          "エサ",
-          "鳥"
-        ],
-        "language": [
-          "ja",
-          "en",
-          "zh",
-          "ko"
-        ],
-        "form": [
-          "壁",
-          "貼紙"
-        ]
-      }
-    ],
-    "date": "2017-10-23T10:22:31",
-    "location": null,
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_1598.JPG"
-  },
-  {
-    "id": "IMG_5870",
-    "image": "images/IMG_5870.JPG",
-    "signs": [
-      {
-        "text": "危険！\n自転車は降りて通って下さい",
-        "pictograms": [
-          "黄ダイヤ",
-          "人",
-          "衝突",
-          "自転車に乗る人"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "柵",
-          "貼紙"
-        ]
-      }
-    ],
-    "date": "2017-04-02T09:55:48",
+    "date": "2017-05-13T21:09:08",
     "location": {
-      "lat": 34.8059,
-      "lng": 135.5314
+      "lat": 34.6958,
+      "lng": 135.5119
     },
     "tags": [],
     "notes": "",
-    "original_image": "IMG_5870.JPG"
+    "original_image": "IMG_6216.JPG"
   },
   {
     "id": "IMG_6211",
@@ -400,189 +958,33 @@
     "original_image": "IMG_6211.JPG"
   },
   {
-    "id": "IMG_6216",
-    "image": "images/IMG_6216.JPG",
+    "id": "IMG_5870",
+    "image": "images/IMG_5870.JPG",
     "signs": [
       {
-        "text": "店の前に自転車をとめないで下さい\nどうなってもしりません",
-        "pictograms": [],
+        "text": "危険！\n自転車は降りて通って下さい",
+        "pictograms": [
+          "黄ダイヤ",
+          "人",
+          "衝突",
+          "自転車に乗る人"
+        ],
         "language": [
           "ja"
         ],
         "form": [
-          "シャッター",
-          "貼紙",
-          "手書き"
+          "柵",
+          "貼紙"
         ]
       }
     ],
-    "date": "2017-05-13T21:09:08",
+    "date": "2017-04-02T09:55:48",
     "location": {
-      "lat": 34.6958,
-      "lng": 135.5119
+      "lat": 34.8059,
+      "lng": 135.5314
     },
     "tags": [],
     "notes": "",
-    "original_image": "IMG_6216.JPG"
-  },
-  {
-    "id": "IMG_6325",
-    "image": "images/IMG_6325.JPG",
-    "signs": [
-      {
-        "text": "もみじ保育園専用駐車場\n他車の車の駐車禁ずる\nもみじ保育園",
-        "pictograms": [],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "自立",
-          "看板"
-        ]
-      }
-    ],
-    "date": "2017-06-03T17:38:26",
-    "location": {
-      "lat": 34.833,
-      "lng": 135.4986
-    },
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_6325.JPG"
-  },
-  {
-    "id": "IMG_6329",
-    "image": "images/IMG_6329.JPG",
-    "signs": [
-      {
-        "text": "足元注意！\nすべりやすくなっておりますので、ご注意ください\nCAUTION!\nSLIPPERY SURFACE\nEXPOCITY エキスポシティ 三井ショッピングバーク LaLaport EXPOCITY",
-        "pictograms": [
-          "黄三角",
-          "滑る人",
-          "！"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "自立",
-          "看板"
-        ]
-      }
-    ],
-    "date": "2017-06-04T14:35:52",
-    "location": {
-      "lat": 34.805,
-      "lng": 135.5338
-    },
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_6329.JPG"
-  },
-  {
-    "id": "IMG_8710",
-    "image": "images/IMG_8710.JPG",
-    "signs": [
-      {
-        "text": "監視カメラ作動中\n犬のおしっこ禁止！\n罰金3万円",
-        "pictograms": [
-          "赤丸斜線",
-          "立ち小便する犬",
-          "電柱"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "自立",
-          "看板"
-        ]
-      }
-    ],
-    "date": "2018-01-27T15:40:07",
-    "location": {
-      "lat": 34.7088,
-      "lng": 135.5025
-    },
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_8710.JPG"
-  },
-  {
-    "id": "IMG_8915",
-    "image": "images/IMG_8915.JPG",
-    "signs": [
-      {
-        "text": "日東CS\n1F OR・レストラン 用\n清掃中\n足元にご注意！",
-        "pictograms": [
-          "黄三角",
-          "滑る人"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "持ち運び",
-          "看板"
-        ]
-      }
-    ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_8915.HEIC"
-  },
-  {
-    "id": "IMG_9420",
-    "image": "images/IMG_9420.JPG",
-    "signs": [
-      {
-        "text": "駐輪禁止\nNO BICYCLES PARKING",
-        "pictograms": [
-          "赤丸斜線",
-          "自転車"
-        ],
-        "language": [
-          "ja",
-          "en"
-        ],
-        "form": [
-          "自立",
-          "看板"
-        ]
-      }
-    ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_9420.HEIC"
-  },
-  {
-    "id": "IMG_9863",
-    "image": "images/IMG_9863.JPG",
-    "signs": [
-      {
-        "text": "清掃中\nCAUTION\nぬれています\nご注意ください\nWET FLOOR",
-        "pictograms": [
-          "黄三角",
-          "滑る人"
-        ],
-        "language": [
-          "ja",
-          "en"
-        ],
-        "form": [
-          "持ち運び",
-          "看板"
-        ]
-      }
-    ],
-    "date": null,
-    "location": null,
-    "tags": [],
-    "notes": "",
-    "original_image": "IMG_9863.HEIC"
+    "original_image": "IMG_5870.JPG"
   }
 ]

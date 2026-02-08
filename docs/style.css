@@ -12,9 +12,9 @@
     --color-accent: #2563eb;
     --color-accent-light: #dbeafe;
     --spacing-xs: 0.5rem;
-    --spacing-sm: 1rem;
-    --spacing-md: 1.5rem;
-    --spacing-lg: 2rem;
+    --spacing-sm: 0.8rem;
+    --spacing-md: 1.0rem;
+    --spacing-lg: 1.0rem;
 }
 
 body {
@@ -39,9 +39,9 @@ body {
 }
 
 .title {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 700;
-    margin-bottom: var(--spacing-xs);
+    margin: var(--spacing-xs);
     letter-spacing: -0.5px;
 }
 
@@ -49,6 +49,7 @@ body {
     font-size: 0.9rem;
     color: #666;
     font-weight: 400;
+    margin: var(--spacing-xs);
 }
 
 /* Controls */
