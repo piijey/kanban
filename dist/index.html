@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>看板コーパス - Kanban Corpus</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="title">看板コーパス</h1>
+            <p class="subtitle">Japanese Signage Corpus</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- 検索・フィルタエリア -->
+        <div class="controls">
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    class="search-input" 
+                    placeholder="テキストで検索..."
+                >
+            </div>
+
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    id="pictogramInput" 
+                    class="search-input" 
+                    placeholder="ピクトグラムで検索..."
+                >
+            </div>
+
+            <div class="filters">
+                <div class="filter-group">
+                    <label>言語:</label>
+                    <select id="languageSelect" class="filter-select">
+                        <option value="">全て</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label>形態:</label>
+                    <select id="formSelect" class="filter-select">
+                        <option value="">全て</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="result-info">
+                <span id="resultCount">0</span> 件
+            </div>
+        </div>
+
+        <!-- グリッド表示 -->
+        <div class="grid" id="gallery"></div>
+    </main>
+
+    <!-- モーダル -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <div class="modal-body">
+                <img id="modalImage" class="modal-image" src="" alt="">
+                <div class="modal-info">
+                    <div id="signsList" class="signs-list"></div>
+                    <div class="modal-meta" id="imageMeta"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
