@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-全ての画像をdist/imagesにコピー＆リサイズ＆最適化
+全ての画像をdocs/imagesにコピー＆リサイズ＆最適化
 - HEIC → JPG変換
 - JPG/PNG → リサイズ＆最適化
 仕様: 長辺1600px、品質85から調整、目標1MB以下、全てJPG統一
@@ -130,9 +130,9 @@ def process_image(input_path: str, output_path: str, target_size_mb: float = 1.0
 def main():
     project_dir = Path(__file__).parent.parent
     images_dir = project_dir / "data_raw-img"
-    dist_images_dir = project_dir / "dist" / "images"
+    dist_images_dir = project_dir / "docs" / "images"
     
-    # dist/images ディレクトリを作成
+    # docs/images ディレクトリを作成
     dist_images_dir.mkdir(parents=True, exist_ok=True)
     
     # 全ての画像ファイルを収集（HEIC/JPG/PNG）

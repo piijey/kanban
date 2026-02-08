@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Excel から JSON への変換スクリプト
-data_excel/*.xlsx → data.json
+data_excel/*.xlsx → docs/data.json
 """
 
 import json
@@ -164,8 +164,8 @@ if __name__ == "__main__":
     project_dir = script_dir.parent
     
     excel_file = project_dir / "data_excel" / "tags.xlsx"
-    output_file = project_dir / "dist" / "data.json"
-    images_dir = project_dir / "dist" / "images"  # 変換済みJPGから読む
+    output_file = project_dir / "docs" / "data.json"
+    images_dir = project_dir / "docs" / "images"  # 変換済みJPGから読む
     
     if not excel_file.exists():
         print(f"Error: Excel file not found: {excel_file}")
