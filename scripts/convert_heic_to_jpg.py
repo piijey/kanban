@@ -3,9 +3,14 @@
 全ての画像をdocs/imagesにコピー＆リサイズ＆最適化
 - HEIC/JPG/PNG → JPG統一
 仕様: 長辺1600px、品質85から調整、目標1MB以下
+
+Usage:
+    python convert_heic_to_jpg.py          # 既存ファイルをスキップ
+    python convert_heic_to_jpg.py --force  # 全ファイルを処理
 """
 
 import os
+import sys
 from pathlib import Path
 from PIL import Image
 import pillow_heif
@@ -56,6 +61,9 @@ def process_image(input_path: str, output_path: str, target_size_mb: float = 1.0
 
 
 def main():
+    # コマンドライン引数処理
+    force_process = '--force' in sys.argv
+    
     project_dir = Path(__file__).parent.parent
     images_dir = project_dir / "data_raw-img"
     output_dir = project_dir / "docs" / "images"
@@ -71,16 +79,30 @@ def main():
         print("No image files found.")
         return
     
-    print(f"Processing {len(image_files)} images...\n")
-    
+    # 処理対象のファイルをフィルタ
+    files_to_process = []
     for img_path in image_files:
         output_path = output_dir / img_path.with_suffix(".JPG").name
+        
+        if output_path.exists() and not force_process:
+            # スキップ
+            continue
+        
+        files_to_process.append((img_path, output_path))
+    
+    if not files_to_process:
+        print("All images are already processed. Use '--force' to reprocess all files.")
+        return
+    
+    print(f"Processing {len(files_to_process)} images...\n")
+    
+    for img_path, output_path in files_to_process:
         try:
             process_image(str(img_path), str(output_path))
         except Exception as e:
             print(f"✗ Error processing {img_path.name}: {e}")
     
-    print(f"\n✓ Complete! Total {len(image_files)} images in {output_dir}")
+    print(f"\n✓ Complete! Total {len(files_to_process)} images processed in {output_dir}")
 
 
 if __name__ == "__main__":

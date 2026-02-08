@@ -239,6 +239,8 @@ class CorpusViewer {
                 <div class="info-meta"><strong>撮影日:</strong><div>${item.date ? new Date(item.date).toLocaleDateString('ja-JP') : 'N/A'}</div></div>
                 <div class="info-meta"><strong>位置情報:</strong><div>${item.location ? `${item.location.lat}, ${item.location.lng}` : 'N/A'}</div></div>
                 <div class="info-meta"><strong>ファイル名:</strong><div>${item.original_image || 'N/A'}</div></div>
+                ${item.notes ? `<div class="info-meta"><strong>備考:</strong><div>${item.notes}</div></div>` : ''}
+                ${item.link ? `<div class="info-meta"><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.link}</a></div>` : ''}
             </div>
         `;
 

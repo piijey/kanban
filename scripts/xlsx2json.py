@@ -92,7 +92,7 @@ def excel_to_json(excel_path: str, output_path: str, images_dir: str) -> None:
     df = pd.read_excel(excel_path)
     
     # 必要なカラムの確認
-    required_cols = {"img", "sign_idx", "text", "pictograms", "language", "form"}
+    required_cols = {"img", "sign_idx", "text", "pictograms", "language", "form", "notes"}
     if not required_cols.issubset(df.columns):
         raise ValueError(f"Required columns missing: {required_cols - set(df.columns)}")
     
@@ -129,6 +129,8 @@ def excel_to_json(excel_path: str, output_path: str, images_dir: str) -> None:
             "date": metadata["date"],
             "location": metadata["location"],
             "original_image": img_name,
+            "notes": str(group["notes"].dropna().iloc[0]) if not group["notes"].dropna().empty else None,
+            "link": str(group["link"].dropna().iloc[0]) if not group["link"].dropna().empty else None
         }
         result.append(record)
 
