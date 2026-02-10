@@ -856,6 +856,42 @@
     "link": null
   },
   {
+    "id": "IMG_0424",
+    "image": "images/IMG_0424.JPG",
+    "signs": [
+      {
+        "text": "無許可でのチラシ配り・勧誘禁止\n腕章を付けていない方から、該当の行為を受けた場合は管備センター(06-6871-8927)までご一報ください。",
+        "pictograms": [
+          "四角斜線",
+          "人",
+          "チラシを渡す人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-12-01T12:13:10",
+    "location": {
+      "lat": 34.8109,
+      "lng": 135.495
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "豊中市",
+      "district": "新千里東町一丁目"
+    },
+    "original_image": "IMG_0424.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_2899",
     "image": "images/IMG_2899.JPG",
     "signs": [
@@ -909,6 +945,420 @@
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
+    "id": "IMG_1136",
+    "image": "images/IMG_1136.JPG",
+    "signs": [
+      {
+        "text": "ここに荷物を置かないでね\n荷物を置かれてる場合は強制的に撤去いたします。\nIf you have any luggage left, we will forcibly remove it.",
+        "pictograms": [
+          "怒った表情の雪だるま"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2025-01-12T11:23:30",
+    "location": {
+      "lat": 35.5219,
+      "lng": 136.3865
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "滋賀県",
+      "city": "米原市",
+      "district": null
+    },
+    "original_image": "IMG_1136.HEIC",
+    "notes": "スキー場",
+    "link": null
+  },
+  {
+    "id": "IMG_6755",
+    "image": "images/IMG_6755.JPG",
+    "signs": [
+      {
+        "text": "まもりましょう ゴミ出しルール！！\nゴミはあみの中\nカラス大変です\nお願いします。",
+        "pictograms": [
+          "💦"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "手書き"
+        ]
+      },
+      {
+        "text": "カラスさんへ\n生ゴミつつかないで\nオネガイ",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "手書き"
+        ]
+      }
+    ],
+    "date": "2025-10-11T14:41:31",
+    "location": {
+      "lat": 34.9829,
+      "lng": 135.7111
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "桂御園"
+    },
+    "original_image": "IMG_6755.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5490",
+    "image": "images/IMG_5490.JPG",
+    "signs": [
+      {
+        "text": "信号が変れば車が出ます\nご注意下さい",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-07-26T21:57:00",
+    "location": {
+      "lat": 34.9648,
+      "lng": 135.7071
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "久世高田町"
+    },
+    "original_image": "IMG_5490.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5484",
+    "image": "images/IMG_5484.JPG",
+    "signs": [
+      {
+        "text": "警戒中 窃盗犯横行中\n小心防盗\nCảnh báo tội phạm trộm cắp trong",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "zh",
+          "vi"
+        ],
+        "form": [
+          "棚",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2025-07-26T19:27:51",
+    "location": {
+      "lat": 35.4349,
+      "lng": 135.3332
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "舞鶴市",
+      "district": null
+    },
+    "original_image": "IMG_5484.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5446",
+    "image": "images/IMG_5446.JPG",
+    "signs": [
+      {
+        "text": "NO DRONE AREA\n施設上空及び周辺での小型無人機等の飛行は法令により禁止されています\n施設管理者",
+        "pictograms": [
+          "赤丸斜線",
+          "ドローン"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "舞鶴造修補給所の敷地内上空及び同敷地外柵から概ね300m地域上空において、ドローン等小型無人機を許可又は了承なく飛行させることは法令で禁止されています。\n許可・了承なくドローン等小型無人機を飛行させた場合、必要な措置を実施する他、「1年以下の懲役又は50万円以下の罰金」が科せられる場合があります。\n海上自衛隊 舞鶴造修補給所",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-07-26T15:47:04",
+    "location": {
+      "lat": 35.4751,
+      "lng": 135.3831
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "舞鶴市",
+      "district": null
+    },
+    "original_image": "IMG_5446.heic",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5130",
+    "image": "images/IMG_5130.JPG",
+    "signs": [
+      {
+        "text": "推\nPush",
+        "pictograms": [],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-07-15T16:04:51",
+    "location": {
+      "lat": 22.3133,
+      "lng": 113.9167
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": "香港 Hong Kong",
+      "district": null
+    },
+    "original_image": "IMG_5130.HEIC",
+    "notes": "香港國際機場",
+    "link": null
+  },
+  {
+    "id": "IMG_5124",
+    "image": "images/IMG_5124.JPG",
+    "signs": [
+      {
+        "text": "緊握扶手\nHold the handrail",
+        "pictograms": [],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "床",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-07-15T15:57:14",
+    "location": {
+      "lat": 22.2999,
+      "lng": 114.0676
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": "香港 Hong Kong",
+      "district": null
+    },
+    "original_image": "IMG_5124.HEIC",
+    "notes": "香港國際機場",
+    "link": null
+  },
+  {
+    "id": "IMG_5117",
+    "image": "images/IMG_5117.JPG",
+    "signs": [
+      {
+        "text": "禁止吸煙\nNo smoking\n最高罰款\nMaximum penalty\nHK$5000",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ"
+        ],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-07-15T15:53:19",
+    "location": {
+      "lat": 22.3557,
+      "lng": 113.9696
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": "香港 Hong Kong",
+      "district": "屯門碼頭區 Tuen Mun Pier Head"
+    },
+    "original_image": "IMG_5117.HEIC",
+    "notes": "香港國際機場",
+    "link": null
+  },
+  {
+    "id": "IMG_5116",
+    "image": "images/IMG_5116.JPG",
+    "signs": [
+      {
+        "text": "小心地滑\nBeware of slippery floor",
+        "pictograms": [
+          "赤三角",
+          "滑る人"
+        ],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-07-15T15:53:12",
+    "location": {
+      "lat": 22.3557,
+      "lng": 113.9696
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": "香港 Hong Kong",
+      "district": "屯門碼頭區 Tuen Mun Pier Head"
+    },
+    "original_image": "IMG_5116.HEIC",
+    "notes": "香港國際機場",
+    "link": null
+  },
+  {
+    "id": "IMG_5103",
+    "image": "images/IMG_5103.JPG",
+    "signs": [
+      {
+        "text": "Beware of Slippery Floor\n小心地滑",
+        "pictograms": [
+          "赤三角",
+          "滑る人"
+        ],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "持ち運び"
+        ]
+      }
+    ],
+    "date": "2025-07-15T15:25:20",
+    "location": {
+      "lat": 22.2981,
+      "lng": 114.0682
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": "香港 Hong Kong",
+      "district": null
+    },
+    "original_image": "IMG_5103.HEIC",
+    "notes": "香港國際機場",
+    "link": null
+  },
+  {
+    "id": "IMG_5095",
+    "image": "images/IMG_5095.JPG",
+    "signs": [
+      {
+        "text": "只可用作 緊急出口\nEmergency exit only",
+        "pictograms": [
+          "進入禁止"
+        ],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "小心門邊夾手\nKEEP HANDS CLEAR",
+        "pictograms": [
+          "手",
+          "バツ"
+        ],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-07-15T15:18:46",
+    "location": {
+      "lat": 22.3175,
+      "lng": 113.9366
+    },
+    "location_info": {
+      "country": "中国",
+      "country_code": "cn",
+      "province": null,
+      "city": "香港 Hong Kong",
+      "district": null
+    },
+    "original_image": "IMG_5095.HEIC",
+    "notes": "香港國際機場",
+    "link": null
+  },
+  {
     "id": "IMG_5093",
     "image": "images/IMG_5093.JPG",
     "signs": [
@@ -938,6 +1388,158 @@
       "district": null
     },
     "original_image": "IMG_5093.HEIC",
+    "notes": "香港國際機場",
+    "link": null
+  },
+  {
+    "id": "IMG_4989",
+    "image": "images/IMG_4989.JPG",
+    "signs": [
+      {
+        "text": "XIN VỨT GIẤY VÀO THÙNG RÁC VÀ\nXẢ NƯỚC SAU KHI SỬ DỤNG",
+        "pictograms": [
+          "赤丸斜線",
+          "手",
+          "四角い物",
+          "トイレ"
+        ],
+        "language": [
+          "vi"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-07-14T16:45:18",
+    "location": {
+      "lat": 16.0713,
+      "lng": 108.1947
+    },
+    "location_info": {
+      "country": "Việt Nam",
+      "country_code": "vn",
+      "province": null,
+      "city": "Phường Thanh Khê",
+      "district": null
+    },
+    "original_image": "IMG_4989.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4798",
+    "image": "images/IMG_4798.JPG",
+    "signs": [
+      {
+        "text": "DANGER\nNGUY HIỂM\nKHU VỰC KHỔNG CÓ CỨU HỘ\nCẤM TẮM BIỂN\nNo lifeguard on duty, do not swim",
+        "pictograms": [
+          "赤丸斜線",
+          "泳ぐ人"
+        ],
+        "language": [
+          "vi",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-07-13T19:45:41",
+    "location": {
+      "lat": 16.0736,
+      "lng": 108.2009
+    },
+    "location_info": {
+      "country": "Việt Nam",
+      "country_code": "vn",
+      "province": null,
+      "city": "Phường Thanh Khê",
+      "district": null
+    },
+    "original_image": "IMG_4798.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4766",
+    "image": "images/IMG_4766.JPG",
+    "signs": [
+      {
+        "text": "KHU VỰC\nVĨA HÈ VÀ BÃI BIỂN\nSidewalk and Beach area",
+        "pictograms": [],
+        "language": [
+          "vi",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "CAM ĂN UỐNG, XÃ RÁC\nNo Picnic and Littering",
+        "pictograms": [
+          "赤丸斜線",
+          "人",
+          "四角い物"
+        ],
+        "language": [
+          "vi",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "CẤM CÁC LOẠI XE\nNo Vehicles",
+        "pictograms": [
+          "赤丸斜線",
+          "バイクに乗る人"
+        ],
+        "language": [
+          "vi",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "CẤM BÁN HÀNG RONG\nNo Vendor",
+        "pictograms": [
+          "赤丸斜線",
+          "天秤棒を担ぐ人"
+        ],
+        "language": [
+          "vi",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-07-13T17:05:53",
+    "location": {
+      "lat": 16.0537,
+      "lng": 108.248
+    },
+    "location_info": {
+      "country": "Việt Nam",
+      "country_code": "vn",
+      "province": null,
+      "city": "Phường Ngũ Hành Sơn",
+      "district": null
+    },
+    "original_image": "IMG_4766.HEIC",
     "notes": null,
     "link": null
   },
@@ -1014,6 +1616,102 @@
     "link": null
   },
   {
+    "id": "IMG_2988",
+    "image": "images/IMG_2988.JPG",
+    "signs": [
+      {
+        "text": "この道路には自転車は置けません",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-05-10T19:24:51",
+    "location": {
+      "lat": 34.668,
+      "lng": 135.5022
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "難波一丁目"
+    },
+    "original_image": "IMG_2988.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2975",
+    "image": "images/IMG_2975.JPG",
+    "signs": [
+      {
+        "text": "お知らせ\n私有地に捨てられている自転車です\nご自由に乗り捨ててください\nカギはかかっていますが 捨てられております",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-05-10T18:22:44",
+    "location": {
+      "lat": 34.6674,
+      "lng": 135.5033
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "道頓堀一丁目"
+    },
+    "original_image": "IMG_2975.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2577",
+    "image": "images/IMG_2577.JPG",
+    "signs": [
+      {
+        "text": "ここは道路です\n物品の出店を禁止します\n和光市役所\n朝霞警察署",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-04-12T21:42:43",
+    "location": {
+      "lat": 35.7882,
+      "lng": 139.6114
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "埼玉県",
+      "city": "和光市",
+      "district": "丸山台一丁目"
+    },
+    "original_image": "IMG_2577.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_2082",
     "image": "images/IMG_2082.JPG",
     "signs": [
@@ -1062,6 +1760,128 @@
       "district": null
     },
     "original_image": "IMG_2082.HEIC",
+    "notes": "上海浦东国际机场",
+    "link": null
+  },
+  {
+    "id": "IMG_1569",
+    "image": "images/IMG_1569.JPG",
+    "signs": [
+      {
+        "text": "扉挟まれ注意\nPlease be careful of the doors.\n请小心车门\n문 조심",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "ko",
+          "_multi"
+        ],
+        "form": [
+          "扉",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2025-03-01T12:02:32",
+    "location": {
+      "lat": 34.4359,
+      "lng": 135.2422
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "田尻町",
+      "district": "泉州空港中"
+    },
+    "original_image": "IMG_1569.heic",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_0590",
+    "image": "images/IMG_0590.JPG",
+    "signs": [
+      {
+        "text": "臨時 離合退避所",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2024-11-17T16:40:31",
+    "location": {
+      "lat": 35.0008,
+      "lng": 135.8186
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "安朱堂ノ後町"
+    },
+    "original_image": "IMG_0590.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_8517",
+    "image": "images/IMG_8517.JPG",
+    "signs": [
+      {
+        "text": "シャツターが故障します\n自転車ぶつけないで！",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "シャッター",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "シャッターに自転車ぶつけないでください",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "シャッター",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "警告\n不法投棄は犯罪\nここは有料のゴミ置き場です。\n関係者以外ゴミを捨てないで下さい。\n不法投棄を発見次第、普察に通報します。\n十三元今里商店街",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "シャッター",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2024-07-21T15:05:12",
+    "location": {
+      "lat": 34.7193,
+      "lng": 135.4774
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "十三元今里二丁目"
+    },
+    "original_image": "IMG_8517.HEIC",
     "notes": null,
     "link": null
   },
@@ -1099,6 +1919,41 @@
     "original_image": "IMG_8504.HEIC",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_8501",
+    "image": "images/IMG_8501.JPG",
+    "signs": [
+      {
+        "text": "自転車は押して通行して下さい\n御協力お願いします\nJ-MALL\n十三本町商店街振興組合\n淀川警察署",
+        "pictograms": [
+          "赤丸斜線",
+          "ぎざぎざ",
+          "倒れる人",
+          "自転車に乗る人"
+        ],
+        "language": [],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2024-07-21T14:33:57",
+    "location": {
+      "lat": 34.7193,
+      "lng": 135.4793
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": null
+    },
+    "original_image": "IMG_8501.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_8149",
@@ -1218,6 +2073,107 @@
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
+    "id": "IMG_6884",
+    "image": "images/IMG_6884.JPG",
+    "signs": [
+      {
+        "text": "監視カメラ作動中\n防犯と安全のため、常に監視・録画をしています。\nご理解とご協力をお願いいたします。おのみちバス株式会社\nVIDEO SURVEILLANCE\nTHANK YOU FOR YOUR COOPERATION.",
+        "pictograms": [
+          "カメラ"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "落下物で生じた、損害は「落とし主の責任」になります。\n危険ですので窓から手や顔・カメラやスマートフォン等を出さないでください。\nロープウェイ運行中の落下物において発生した破損事故・怪我などについて、運送約款に基づき、管理者は一切の責任を負いません。おのみちバス株式会社\nAccording to the clauses, the owner of the object is to bear the dameges due to fallen objects from a ropeway gondola.\nPlease refrain from put your hands, head, cameras, devices out of the windows of gondolas. Ropeway Operator shall have no duty to the any damages caused by fallen objects during the ropeway gondolas in motion.\n由坠落物产生的损害将是失主的责任。\n因为很危险，所以请不要将手，睑，相机或手机等伸出窗外。\n在缆车运行中由坠落物发生的破损事故•受伤等都不由管理者负责。",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "搬器内での飲食はご遠慮ください。\nDo not eat or drink here",
+        "pictograms": [
+          "赤丸斜線",
+          "カップ飲料",
+          "ハンバーガー",
+          "ソフトクリーム"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2024-02-25T15:31:59",
+    "location": {
+      "lat": 34.4107,
+      "lng": 133.1976
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "広島県",
+      "city": "尾道市",
+      "district": "東土堂町"
+    },
+    "original_image": "IMG_6884.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_6477",
+    "image": "images/IMG_6477.JPG",
+    "signs": [
+      {
+        "text": "NO SKATEBOARDING\n交通の頻繁な道路においてスケートボードで走行することは道路交通法で禁止されています。\n道路とは、歩道や商店街のアーケード内も含みます。\n広島金座街商店街振興組合\n広島中央警察署",
+        "pictograms": [
+          "赤丸斜線",
+          "スケートボードに乗る人"
+        ],
+        "language": [
+          "en",
+          "ja"
+        ],
+        "form": [
+          "柱",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2024-02-23T18:18:34",
+    "location": {
+      "lat": 34.3925,
+      "lng": 132.4624
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "広島県",
+      "city": "広島市",
+      "district": "堀川町"
+    },
+    "original_image": "IMG_6477.HEIC",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/12/22/223000"
+  },
+  {
     "id": "IMG_4643",
     "image": "images/IMG_4643.JPG",
     "signs": [
@@ -1263,7 +2219,7 @@
       {
         "text": "関係者以外進入禁止\nWrong way\nFalscher Weg\n진입금지\n错误的方法",
         "pictograms": [
-          "車両進入禁止"
+          "進入禁止"
         ],
         "language": [
           "ja",
@@ -1627,6 +2583,76 @@
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
+    "id": "IMG_2146",
+    "image": "images/IMG_2146.JPG",
+    "signs": [
+      {
+        "text": "ゴミは持ち帰りましょう\nPlease take your trashi home\n把垃圾带回家\n쓰레기는 반드시 집에 가져 갑시다",
+        "pictograms": [
+          "赤丸斜線"
+        ],
+        "language": [
+          "ja",
+          "en",
+          "zh-Hans",
+          "ko",
+          "_multi"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-07-29T20:02:16",
+    "location": {
+      "lat": 34.6652,
+      "lng": 135.5015
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "難波五丁目"
+    },
+    "original_image": "IMG_2146.heic",
+    "notes": "typo",
+    "link": null
+  },
+  {
+    "id": "IMG_1593",
+    "image": "images/IMG_1593.JPG",
+    "signs": [
+      {
+        "text": "ここはあなたの駐車場ではありません。\n車は駐車場へ\nあしびヶ丘自治会",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-07-01T13:52:57",
+    "location": {
+      "lat": 34.6909,
+      "lng": 135.7645
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "若葉台四丁目"
+    },
+    "original_image": "IMG_1593.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_0301",
     "image": "images/IMG_0301.JPG",
     "signs": [
@@ -1759,6 +2785,49 @@
     "original_image": "IMG_9951.heic",
     "notes": "ふりがな",
     "link": "https://x.com/xiPJ/status/1657318564649635845"
+  },
+  {
+    "id": "IMG_9878",
+    "image": "images/IMG_9878.JPG",
+    "signs": [
+      {
+        "text": "道路に置かないで駐輪場に入れて下さい。\n宇部警察署\n宇部市\n交通安全協会西宇部分会",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "宇部市自転車駐車場利用上の注意\n1. 利用される方は整理整頓して下さい。\n2. 長時間または場外に放置された時は、撤去することがあります。\n3. 必ず施錠して下さい。\n4. 盗難・損傷については一切責任を負いません。\n宇部市",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-05-04T11:19:13",
+    "location": {
+      "lat": 34.0027,
+      "lng": 131.2225
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "山口県",
+      "city": "宇部市",
+      "district": "西宇部北二丁目"
+    },
+    "original_image": "IMG_9878.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_9762",
@@ -1894,6 +2963,40 @@
     "link": "https://x.com/xiPJ/status/1653725863094136832"
   },
   {
+    "id": "IMG_9388",
+    "image": "images/IMG_9388.JPG",
+    "signs": [
+      {
+        "text": "事故多く\n通り抜けしないで下さい\nNO SHORT CUT",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "貼紙",
+          "手書き"
+        ]
+      }
+    ],
+    "date": "2023-04-28T18:31:06",
+    "location": {
+      "lat": 34.6676,
+      "lng": 135.5043
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "千日前一丁目"
+    },
+    "original_image": "IMG_9388.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_8252",
     "image": "images/IMG_8252.JPG",
     "signs": [
@@ -1928,6 +3031,182 @@
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
   },
   {
+    "id": "IMG_6570",
+    "image": "images/IMG_6570.JPG",
+    "signs": [
+      {
+        "text": "最寄りの駐輪場に停めて、歩いて戻ってきても5分しかかかりません！！\n地下駐輪場は120分、路上駐輪場は90分無料！\n駐輪場を利用してください",
+        "pictograms": [
+          "地図"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "ロープ",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2022-10-10T19:05:20",
+    "location": {
+      "lat": 34.8317,
+      "lng": 134.6923
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "兵庫県",
+      "city": "姫路市",
+      "district": null
+    },
+    "original_image": "IMG_6570.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_6530",
+    "image": "images/IMG_6530.JPG",
+    "signs": [
+      {
+        "text": "歩行者専用道路\n商店街内では自転車は押して通行いただきますようお願い致します\nおみぞ筋商店街",
+        "pictograms": [
+          "赤バツ",
+          "自転車に乗る人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-10-10T17:16:17",
+    "location": {
+      "lat": 34.8298,
+      "lng": 134.6928
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "兵庫県",
+      "city": "姫路市",
+      "district": null
+    },
+    "original_image": "IMG_6530.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2529",
+    "image": "images/IMG_2529.JPG",
+    "signs": [
+      {
+        "text": "注意\n足元注意\n接触禁止",
+        "pictograms": [
+          "⚠️",
+          "足元構造物",
+          "ぎざぎざ",
+          "倒れる人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "車止め",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2022-10-02T11:25:32",
+    "location": {
+      "lat": 34.9659,
+      "lng": 136.6233
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "三重県",
+      "city": "四日市市",
+      "district": "諏訪町"
+    },
+    "original_image": "IMG_2529.HEIC",
+    "notes": "コインパーキングの車止め",
+    "link": null
+  },
+  {
+    "id": "IMG_2389",
+    "image": "images/IMG_2389.JPG",
+    "signs": [
+      {
+        "text": "スケボー禁止！！\n駐車場を含む敷地内でのスケートボードの使用を禁止しています",
+        "pictograms": [
+          "赤丸斜線",
+          "スケートボードに乗る人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2022-10-01T17:09:48",
+    "location": {
+      "lat": 34.9677,
+      "lng": 136.6167
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "三重県",
+      "city": "四日市市",
+      "district": "安島一丁目"
+    },
+    "original_image": "IMG_2389.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5934",
+    "image": "images/IMG_5934.JPG",
+    "signs": [
+      {
+        "text": "関係者以外\n立入禁止",
+        "pictograms": [
+          "赤丸斜線",
+          "人"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-09-27T21:34:48",
+    "location": {
+      "lat": 35.7893,
+      "lng": 139.5973
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "埼玉県",
+      "city": "朝霞市",
+      "district": "栄町五丁目"
+    },
+    "original_image": "IMG_5934.heic",
+    "notes": null,
+    "link": "https://isomocha.hatenablog.com/entry/2025/12/22/223000"
+  },
+  {
     "id": "IMG_5487",
     "image": "images/IMG_5487.JPG",
     "signs": [
@@ -1959,6 +3238,227 @@
     "original_image": "IMG_5487.heic",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_5200",
+    "image": "images/IMG_5200.JPG",
+    "signs": [
+      {
+        "text": "2月23日に\n(10:00～18:00)\n自転車走行が禁止になりました\nせんば心斎橋筋(協)",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-07-09T12:55:55",
+    "location": {
+      "lat": 34.6815,
+      "lng": 135.5016
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "大阪市",
+      "district": "久太郎町三丁目"
+    },
+    "original_image": "IMG_5200.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4935",
+    "image": "images/IMG_4935.JPG",
+    "signs": [
+      {
+        "text": "注意！\nここは公園ですので駐輪はご遠慮下さい\n奈良市",
+        "pictograms": [
+          "赤バツ",
+          "自転車"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "電柱",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-06-05T19:50:00",
+    "location": {
+      "lat": 34.6822,
+      "lng": 135.8238
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "登大路町"
+    },
+    "original_image": "IMG_4935.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4660",
+    "image": "images/IMG_4660.JPG",
+    "signs": [
+      {
+        "text": "吸殻のポイ捨てやめて\nきれいな栄町",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "私有地につき\n駐輪お断り\n近畿日本鉄道株式会社 西大寺総合事務所",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-05-07T13:41:29",
+    "location": {
+      "lat": 34.6934,
+      "lng": 135.7845
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "青野町一丁目"
+    },
+    "original_image": "IMG_4660.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4363",
+    "image": "images/IMG_4363.JPG",
+    "signs": [
+      {
+        "text": "有料駐輪場\nビルの関係者・契約者以外の無断駐輪は処分又は一日金2千円を請求します。\n（無断駐輪の場合チェーンでロックします。）\nカジノバビル TEL341-0123",
+        "pictograms": [],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-04-30T17:46:53",
+    "location": {
+      "lat": 35.0018,
+      "lng": 135.7611
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "笹屋町"
+    },
+    "original_image": "IMG_4363.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4362",
+    "image": "images/IMG_4362.JPG",
+    "signs": [
+      {
+        "text": "有料駐輪場 1回24時間 2000円",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柱",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2022-04-30T17:46:37",
+    "location": {
+      "lat": 35.0018,
+      "lng": 135.7611
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "笹屋町"
+    },
+    "original_image": "IMG_4362.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_4321",
+    "image": "images/IMG_4321.JPG",
+    "signs": [
+      {
+        "text": "SKビル 関係者以外\n駐輪禁止",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      },
+      {
+        "text": "無許可車輌は、金1万円徴収します。",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2022-04-30T16:15:46",
+    "location": {
+      "lat": 34.9878,
+      "lng": 135.7604
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "北小路町"
+    },
+    "original_image": "IMG_4321.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_3029",
@@ -2142,7 +3642,7 @@
     },
     "original_image": "IMG_2115.heic",
     "notes": null,
-    "link": null
+    "link": "https://isomocha.hatenablog.com/entry/2025/12/22/223000"
   },
   {
     "id": "IMG_1567",
@@ -2370,7 +3870,7 @@
         "pictograms": [
           "赤丸斜線",
           "倒れる人",
-          "衝突",
+          "ぎざぎざ",
           "自転車に乗る人"
         ],
         "language": [
@@ -2772,8 +4272,8 @@
     "link": null
   },
   {
-    "id": "IMG_2737",
-    "image": "images/IMG_2737.JPG",
+    "id": "IMG_2738",
+    "image": "images/IMG_2738.JPG",
     "signs": [
       {
         "text": "彈指神功，水滴入盆\nPlease leave the basin clean and tidy.",
@@ -2788,10 +4288,10 @@
         ]
       }
     ],
-    "date": "2019-05-07T11:28:35",
+    "date": "2019-05-07T11:28:48",
     "location": {
-      "lat": 22.6315,
-      "lng": 120.3017
+      "lat": 22.6316,
+      "lng": 120.3018
     },
     "location_info": {
       "country": "臺灣",
@@ -2800,7 +4300,7 @@
       "city": "高雄市",
       "district": "明莊里"
     },
-    "original_image": "IMG_2737.HEIC",
+    "original_image": "IMG_2738.heic",
     "notes": null,
     "link": null
   },
@@ -2980,7 +4480,7 @@
     },
     "original_image": "IMG_1516.HEIC",
     "notes": null,
-    "link": null
+    "link": "https://isomocha.hatenablog.com/entry/2025/12/22/223000"
   },
   {
     "id": "IMG_1464",
@@ -3413,6 +4913,106 @@
     "link": null
   },
   {
+    "id": "IMG_8315",
+    "image": "images/IMG_8315.JPG",
+    "signs": [
+      {
+        "text": "請家長留意小孩的手勿靠在門上避免夾傷。\nTo avoid injury, keep children's hands clear of the doors.\n小心夾手\nMind your hands!",
+        "pictograms": [
+          "泣いている顔",
+          "ぎざぎざ",
+          "手"
+        ],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2018-01-04T13:23:51",
+    "location": {
+      "lat": 25.0573,
+      "lng": 121.5236
+    },
+    "location_info": {
+      "country": "臺灣",
+      "country_code": "tw",
+      "province": null,
+      "city": "臺北市",
+      "district": "中山里"
+    },
+    "original_image": "IMG_8315.JPG",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_8311",
+    "image": "images/IMG_8311.JPG",
+    "signs": [
+      {
+        "text": "嚴禁吸菸\nNo smoking\n最高罰款\nMaximum penalty\nNT $10,000",
+        "pictograms": [
+          "赤四角斜線",
+          "タバコ"
+        ],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "沖水鈕請持續 按壓超過3秒\nPush flush button for more than 3 seconds",
+        "pictograms": [],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "衛生紙請丟馬桶 勿丟棄其他異物\nNo garbage into the toilet except toilet paper",
+        "pictograms": [],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "請小心 保管財物\nKeep your valuables in view",
+        "pictograms": [],
+        "language": [
+          "zh-Hant",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2018-01-04T11:05:42",
+    "location": null,
+    "location_info": null,
+    "original_image": "IMG_8311.JPG",
+    "notes": "臺灣桃園國際機場",
+    "link": null
+  },
+  {
     "id": "IMG_1598",
     "image": "images/IMG_1598.JPG",
     "signs": [
@@ -3442,129 +5042,6 @@
     "location_info": null,
     "original_image": "IMG_1598.JPG",
     "notes": "千里中央",
-    "link": null
-  },
-  {
-    "id": "IMG_1296",
-    "image": "images/IMG_1296.JPG",
-    "signs": [
-      {
-        "text": "警察官立寄所",
-        "pictograms": [
-          "警察紋章"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      },
-      {
-        "text": "防犯カメラ設置",
-        "pictograms": [
-          "カメラ"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      },
-      {
-        "text": "補助犬同伴可\n盲導犬・介護犬・聴導犬",
-        "pictograms": [
-          "青円",
-          "盲導犬"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      },
-      {
-        "text": "天候により 床すべり注意",
-        "pictograms": [
-          "青円",
-          "滑る人"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      },
-      {
-        "text": "ジェフグルメカード加盟店",
-        "pictograms": [
-          "ロゴマーク",
-          "全国共通お食事券ジェフグルメカード加盟店"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      },
-      {
-        "text": "ペット ご遠慮下さい",
-        "pictograms": [
-          "赤丸斜線",
-          "犬"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      },
-      {
-        "text": "未成年・運転者 飲酒禁止",
-        "pictograms": [
-          "赤丸斜線",
-          "ビール",
-          "車"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      },
-      {
-        "text": "全時間禁煙",
-        "pictograms": [
-          "赤丸斜線",
-          "タバコ"
-        ],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "壁",
-          "看板"
-        ]
-      }
-    ],
-    "date": "2017-08-16T11:26:11",
-    "location": null,
-    "location_info": null,
-    "original_image": "IMG_1296.JPG",
-    "notes": null,
     "link": null
   },
   {
@@ -3921,6 +5398,41 @@
     "original_image": "IMG_5008.JPG",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_3975",
+    "image": "images/IMG_3975.JPG",
+    "signs": [
+      {
+        "text": "10M→",
+        "pictograms": [
+          "シャワー",
+          "車"
+        ],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "街灯",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2016-08-17T18:05:24",
+    "location": {
+      "lat": 43.113,
+      "lng": 131.8814
+    },
+    "location_info": {
+      "country": "Россия",
+      "country_code": "ru",
+      "province": null,
+      "city": "Владивосток",
+      "district": "Фрунзенский район"
+    },
+    "original_image": "IMG_3975.jpg",
+    "notes": "автомойка (洗車場)",
+    "link": null
   },
   {
     "id": "IMG_3531",

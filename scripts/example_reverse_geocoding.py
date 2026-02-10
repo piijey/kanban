@@ -33,11 +33,16 @@ def get_city_or_station(lat, lng, language='ja'):
 # print(get_city_or_station(21.0285, 105.8542))  # ベトナム
 
 from xlsx2json import get_image_metadata
-metadata = get_image_metadata("IMG_9358.jpg")
-print(metadata['location'])
-print(get_city_or_station(metadata['location']['lat'], metadata['location']['lng']))
 
-metadata = get_image_metadata("IMG_4137.jpg")
-print(metadata['location'])
-time.sleep(1)
-print(get_city_or_station(metadata['location']['lat'], metadata['location']['lng']))
+for filename in [
+        "IMG_9358.JPG",  # {'lat': 34.6937, 'lng': 135.7834} {'country': '日本', 'country_code': 'jp', 'province': '奈良県', 'city': '奈良市', 'station': None, 'district': None}
+        "IMG_4137.JPG",  # {'lat': 21.224, 'lng': 105.7961} {'country': 'Việt Nam', 'country_code': 'vn', 'province': None, 'city': 'Thành phố Hà Nội', 'station': None, 'district': 'Xã Nội Bài'}
+        "IMG_5093.JPG",  # 香港國際機場 {'lat': 22.318, 'lng': 113.937} {'country': '中国', 'country_code': 'cn', 'province': None, 'city': '香港 Hong Kong', 'station': None, 'district': None}
+        "IMG_2082.JPG",  # 上海浦东国际机场 {'lat': 31.1548, 'lng': 121.8057} {'country': '中国', 'country_code': 'cn', 'province': None, 'city': None, 'station': None, 'district': None}
+    ]:
+
+    time.sleep(0.5)
+    metadata = get_image_metadata(f"docs/images/{filename}")
+    print(metadata['location'])
+    print(get_city_or_station(metadata['location']['lat'], metadata['location']['lng']))
+    print()
