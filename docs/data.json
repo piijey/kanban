@@ -601,6 +601,42 @@
     "link": null
   },
   {
+    "id": "IMG_1206",
+    "image": "images/IMG_1206.JPG",
+    "signs": [
+      {
+        "text": "駐輪禁止\nNO PARKING\nanue 京都三条",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "カラーコーン",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-12-26T08:52:22",
+    "location": {
+      "lat": 35.0089,
+      "lng": 135.7702
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "中島町"
+    },
+    "original_image": "IMG_1206.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_1179",
     "image": "images/IMG_1179.JPG",
     "signs": [
@@ -1133,6 +1169,38 @@
     },
     "original_image": "IMG_5446.heic",
     "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5174",
+    "image": "images/IMG_5174.JPG",
+    "signs": [
+      {
+        "text": "この扉は火災の時に火や煙を防ぐ大切なものです。\n扉の前に商品や物品などを置かないようにお願いします。\n空港管理者",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "扉",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": "2025-07-15T21:54:13",
+    "location": {
+      "lat": 34.4355,
+      "lng": 135.2445
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "泉佐野市",
+      "district": "泉州空港中"
+    },
+    "original_image": "IMG_5174.HEIC",
+    "notes": "関西国際空港",
     "link": null
   },
   {
@@ -1712,6 +1780,165 @@
     "link": null
   },
   {
+    "id": "IMG_2563",
+    "image": "images/IMG_2563.JPG",
+    "signs": [
+      {
+        "text": "立入禁止\nダメ！\n東京都第六建設事務所",
+        "pictograms": [
+          "四角斜線",
+          "両手のひら"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "カラーコーン",
+          "看板"
+        ]
+      },
+      {
+        "text": "立入禁止\n東京都第六建設事務所",
+        "pictograms": [
+          "進入禁止"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "カラーコーン",
+          "看板"
+        ]
+      },
+      {
+        "text": "上野アメ横 70m\nUeno Ameyoko\n上野恩賜公園 100m\nUeno Park",
+        "pictograms": [
+          "矢印",
+          "木",
+          "ベンチ"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2025-04-12T20:47:29",
+    "location": {
+      "lat": 35.7117,
+      "lng": 139.7749
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": null,
+      "city": "台東区",
+      "district": "上野七丁目"
+    },
+    "original_image": "IMG_2563.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2190",
+    "image": "images/IMG_2190.JPG",
+    "signs": [
+      {
+        "text": "トイレットペーパーの盗難が多発しています。\n盗難は犯罪です。\n持ち帰らないようお願いします。\n駅長",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2025-03-16T14:31:49",
+    "location": {
+      "lat": 34.8189,
+      "lng": 135.5296
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "吹田市",
+      "district": "美穂ヶ丘"
+    },
+    "original_image": "IMG_2190.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_2187",
+    "image": "images/IMG_2187.JPG",
+    "signs": [
+      {
+        "text": "禁煙\nNo smoking",
+        "pictograms": [
+          "赤丸斜線",
+          "タバコ"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "No admittance\n立入禁止\nこの先関係者以外の立入り禁止",
+        "pictograms": [
+          "赤丸斜線",
+          "人"
+        ],
+        "language": [
+          "en",
+          "ja"
+        ],
+        "form": [
+          "カラーコーン",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "防犯カメラ作動中\n24時間監視中",
+        "pictograms": [
+          "カメラ"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "床",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2025-03-16T14:07:34",
+    "location": {
+      "lat": 34.8087,
+      "lng": 135.4948
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "大阪府",
+      "city": "豊中市",
+      "district": "新千里東町一丁目"
+    },
+    "original_image": "IMG_2187.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_2082",
     "image": "images/IMG_2082.JPG",
     "signs": [
@@ -2172,6 +2399,79 @@
     "original_image": "IMG_6477.HEIC",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/12/22/223000"
+  },
+  {
+    "id": "IMG_5758",
+    "image": "images/IMG_5758.JPG",
+    "signs": [
+      {
+        "text": "通行の妨げになり危険です\n車椅子も通れません\n京阪三条北ビル 管理者",
+        "pictograms": [
+          "赤丸斜線",
+          "自転車"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2017-03-24T16:06:13",
+    "location": {
+      "lat": 36.2936,
+      "lng": 139.3777
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "群馬県",
+      "city": "太田市",
+      "district": "本町"
+    },
+    "original_image": "IMG_5758.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_5645",
+    "image": "images/IMG_5645.JPG",
+    "signs": [
+      {
+        "text": "座席のシート切りは犯罪です！\n座席を切る行為は、刑法第261条等により罰せられます。目撃したり、発見した場合は係員にお知らせ下さい。\nご協力をお願いします。\n警視庁鉄道警察隊\n埼玉県警察鉄道警察隊\n西武鉄道",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      },
+      {
+        "text": "消火器\nFire extinguisher",
+        "pictograms": [
+          "消火器",
+          "矢印"
+        ],
+        "language": [
+          "ja",
+          "en"
+        ],
+        "form": [
+          "壁",
+          "ステッカー"
+        ]
+      }
+    ],
+    "date": null,
+    "location": null,
+    "location_info": null,
+    "original_image": "IMG_5645.JPG",
+    "notes": "東京都練馬区（列車内）",
+    "link": null
   },
   {
     "id": "IMG_4643",
@@ -2653,6 +2953,261 @@
     "link": null
   },
   {
+    "id": "IMG_1311",
+    "image": "images/IMG_1311.JPG",
+    "signs": [
+      {
+        "text": "警告\n最近当ビル敷地内および出入口の前に不法駐輪がされていますが防災上避難の防げとなり消防署より強く指摘を受けました。\n今後、当敷地内および出入口付近の不法駐輪は発見次第撤去処分致しますのでご了承ください。\n京都吉本ビル（パッサージオ）",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柱",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2023-06-18T16:21:36",
+    "location": {
+      "lat": 35.0053,
+      "lng": 135.7673
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "桜之町"
+    },
+    "original_image": "IMG_1311.HEIC",
+    "notes": "typo",
+    "link": null
+  },
+  {
+    "id": "IMG_1135",
+    "image": "images/IMG_1135.JPG",
+    "signs": [
+      {
+        "text": "不法投棄監視中\n見てますよ、あなたを\n一人ひとりが力を合わせ、美しい京都を次の世代へ引き継いでいきましょう\n不法投棄をした者は、廃棄物処理法により、5年以下の懲役若しくは1,000万円以下の罰金に処せられます。\n万ーこの場所で不法投棄を目撃されたら110番通報をお願いします。\n市民の皆様のご協力をお願いします\n北部まち美化事務所　(電話) 724-8881\n北エコまちステーション　(電話) 366-0155\n北部土木事務所　(電話) 492-3111\n北警察署　(電話) 493-0110",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      },
+      {
+        "text": "資源ごみ収集場所\n平成23年から缶・びん・ペットボトルを無断で持ち去る行為は条例で禁止です。\n収集日の朝8時までにお出しください。\n缶・びん・ペットボトル　毎週金曜日　元町 02\nプラスチック製容器包装　毎週水曜日\n金属類 小型 スプレー缶　毎月第1水曜日\n雑がみ　毎月第1,3水曜日\n缶・びん・ペットボトルとプラスチック製容器包装は資源ごみ用指定袋で、別々にお出しください。収集日が重なる場合は少し離してお出しください。\n東部まち美化事務所 (TEL 722-4345)",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柱",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-06-18T11:32:59",
+    "location": {
+      "lat": 35.0519,
+      "lng": 135.756
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "小山北玄以町"
+    },
+    "original_image": "IMG_1135.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1087",
+    "image": "images/IMG_1087.JPG",
+    "signs": [
+      {
+        "text": "可燃ごみ\nCombustible waste",
+        "pictograms": [
+          "ロゴ",
+          "キャラクター"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "物",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "竹"
+        ]
+      }
+    ],
+    "date": "2023-06-17T19:17:27",
+    "location": {
+      "lat": 35.0067,
+      "lng": 135.7565
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "鍛冶屋町"
+    },
+    "original_image": "IMG_1087.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1072",
+    "image": "images/IMG_1072.JPG",
+    "signs": [
+      {
+        "text": "駐輪はご遠慮ください",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "書き文字"
+        ]
+      },
+      {
+        "text": "-",
+        "pictograms": [],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "竹"
+        ]
+      }
+    ],
+    "date": "2023-06-17T19:02:50",
+    "location": {
+      "lat": 35.0086,
+      "lng": 135.7615
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "桝屋町"
+    },
+    "original_image": "IMG_1072.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1061",
+    "image": "images/IMG_1061.JPG",
+    "signs": [
+      {
+        "text": "-",
+        "pictograms": [],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "竹"
+        ]
+      }
+    ],
+    "date": "2023-06-17T17:36:38",
+    "location": {
+      "lat": 35.0096,
+      "lng": 135.764
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "京都御苑"
+    },
+    "original_image": "IMG_1061.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1051",
+    "image": "images/IMG_1051.JPG",
+    "signs": [
+      {
+        "text": "-",
+        "pictograms": [],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "竹"
+        ]
+      }
+    ],
+    "date": "2023-06-17T17:20:41",
+    "location": {
+      "lat": 35.0087,
+      "lng": 135.7648
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "桝屋町"
+    },
+    "original_image": "IMG_1051.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_1040",
+    "image": "images/IMG_1040.JPG",
+    "signs": [
+      {
+        "text": "大文字ビル",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "カラーコーン"
+        ]
+      }
+    ],
+    "date": "2023-06-17T16:52:11",
+    "location": {
+      "lat": 35.0077,
+      "lng": 135.7684
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "松ケ枝町"
+    },
+    "original_image": "IMG_1040.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_0301",
     "image": "images/IMG_0301.JPG",
     "signs": [
@@ -2997,6 +3552,60 @@
     "link": null
   },
   {
+    "id": "IMG_8901",
+    "image": "images/IMG_8901.JPG",
+    "signs": [
+      {
+        "text": "警告\nするな！！不法投棄\nあなたの行為は犯罪です\n山科警察署\n山科まち美化事務所",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "不法投棄監視中\n見てますよ あなたの違法行為を！\n不法投棄をした者は、廃棄物処理法により5年以下の懲役若しくは、1,000万円以下の罰金に処せられます。\n山科まち美化事務所\n山科警察署",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      },
+      {
+        "text": "資源ごみ収集場所\n平成23年から缶・びん・ペットボトルを無断で持ち去る行為は条例で禁止です。\n収集日の朝8時までにお出しください。\n缶・びん・ペットボトル　毎週水曜日　山階　26\nプラスチック製容器包装　毎週金曜日\n金属類 小型 スプレー缶　毎月第2水曜日\n雑がみ　毎月第2,4水曜日\n缶・びん・ペットボトルとプラスチック製容器包装は資源ごみ用指定袋で、別々にお出しください。収集日が重なる場合は少し離してお出しください。\n山科まち美化事務所 (TEL 537-2457)",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柵",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-04-02T11:25:45",
+    "location": {
+      "lat": 34.9889,
+      "lng": 135.8137
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "御陵大津畑町"
+    },
+    "original_image": "IMG_8901.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_8252",
     "image": "images/IMG_8252.JPG",
     "signs": [
@@ -3029,6 +3638,92 @@
     "original_image": "IMG_8252.HEIC",
     "notes": null,
     "link": "https://isomocha.hatenablog.com/entry/2025/02/21/000000"
+  },
+  {
+    "id": "IMG_7807",
+    "image": "images/IMG_7807.JPG",
+    "signs": [
+      {
+        "text": "警告\nするな！不法投棄\nあなたの行為は犯罪です\n南部まち美化事務所\n(電話) 681-0456",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "柱",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2023-01-15T16:54:40",
+    "location": {
+      "lat": 35.0076,
+      "lng": 135.7777
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "富永町"
+    },
+    "original_image": "IMG_7807.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_6805",
+    "image": "images/IMG_6805.JPG",
+    "signs": [
+      {
+        "text": "ここへはゴミを捨てるな\nここへはゴミを捨てるな\nここへはゴミを捨てるな\nここへはゴミを捨てるな",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "壁",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "ここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "物",
+          "貼紙"
+        ]
+      },
+      {
+        "text": "ここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな",
+        "pictograms": [],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "物",
+          "貼紙"
+        ]
+      }
+    ],
+    "date": "2022-11-19T22:50:12",
+    "location": {
+      "lat": 34.6848,
+      "lng": 135.8117
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "奈良県",
+      "city": "奈良市",
+      "district": "大宮町六丁目"
+    },
+    "original_image": "IMG_6805.HEIC",
+    "notes": null,
+    "link": null
   },
   {
     "id": "IMG_6570",
@@ -3795,7 +4490,7 @@
     "image": "images/IMG_0662.JPG",
     "signs": [
       {
-        "text": "ここは公団住宅居住者の玄関入口です\n該場所に放置自転車等を置くことは禁止します\nUR都市住宅機構",
+        "text": "ここは公団住宅居住者の玄関入口です\n当該場所に放置自転車等を置くことは禁止します\nUR都市住宅機構",
         "pictograms": [],
         "language": [
           "ja"
