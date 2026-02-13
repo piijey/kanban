@@ -1991,6 +1991,45 @@
     "link": null
   },
   {
+    "id": "IMG_1761",
+    "image": "images/IMG_1761.JPG",
+    "signs": [
+      {
+        "text": "SMOKING AREA\n喫煙所\n吸烟处\n吸菸處\n흡연소\nÁrea de fumadores\nÁrea para fumo",
+        "pictograms": [
+          "タバコ"
+        ],
+        "language": [
+          "en",
+          "ja",
+          "zh-Hans",
+          "zh-Hant",
+          "es",
+          "pt"
+        ],
+        "form": [
+          "壁",
+          "貼り文字"
+        ]
+      }
+    ],
+    "date": "2025-03-02T14:21:53",
+    "location": {
+      "lat": 35.5079,
+      "lng": 139.6177
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "神奈川県",
+      "city": "横浜市",
+      "district": null
+    },
+    "original_image": "IMG_1761.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
     "id": "IMG_1569",
     "image": "images/IMG_1569.JPG",
     "signs": [
@@ -2063,7 +2102,7 @@
     "image": "images/IMG_8517.JPG",
     "signs": [
       {
-        "text": "シャツターが故障します\n自転車ぶつけないで！",
+        "text": "シャッターが故障します\n自転車ぶつけないで！",
         "pictograms": [],
         "language": [
           "ja"
@@ -2159,7 +2198,9 @@
           "倒れる人",
           "自転車に乗る人"
         ],
-        "language": [],
+        "language": [
+          "ja"
+        ],
         "form": [
           "自立",
           "看板"
@@ -2179,6 +2220,41 @@
       "district": null
     },
     "original_image": "IMG_8501.HEIC",
+    "notes": null,
+    "link": null
+  },
+  {
+    "id": "IMG_8417",
+    "image": "images/IMG_8417.JPG",
+    "signs": [
+      {
+        "text": "自転車も乗れません\n寺町三条〜四条\n歩行者専用道路\n10:00〜24:00\n中京警察署長\n寺町京極商店街振興組合",
+        "pictograms": [
+          "進入禁止",
+          "自転車"
+        ],
+        "language": [
+          "ja"
+        ],
+        "form": [
+          "自立",
+          "看板"
+        ]
+      }
+    ],
+    "date": "2024-07-14T19:09:51",
+    "location": {
+      "lat": 35.0035,
+      "lng": 135.7669
+    },
+    "location_info": {
+      "country": "日本",
+      "country_code": "jp",
+      "province": "京都府",
+      "city": "京都市",
+      "district": "中之町"
+    },
+    "original_image": "IMG_8417.HEIC",
     "notes": null,
     "link": null
   },
@@ -2470,7 +2546,7 @@
     "location": null,
     "location_info": null,
     "original_image": "IMG_5645.JPG",
-    "notes": "東京都練馬区（列車内）",
+    "notes": "2024年1月 東京都練馬区（列車内）",
     "link": null
   },
   {
@@ -3189,6 +3265,16 @@
         "form": [
           "カラーコーン"
         ]
+      },
+      {
+        "text": "-",
+        "pictograms": [],
+        "language": [
+          "-"
+        ],
+        "form": [
+          "カラーコーン"
+        ]
       }
     ],
     "date": "2023-06-17T16:52:11",
@@ -3687,18 +3773,7 @@
         ]
       },
       {
-        "text": "ここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな",
-        "pictograms": [],
-        "language": [
-          "ja"
-        ],
-        "form": [
-          "物",
-          "貼紙"
-        ]
-      },
-      {
-        "text": "ここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな\nここにこみを捨てるな",
+        "text": "ここにごみを捨てるな\nここにごみを捨てるな\nここにごみを捨てるな\nここにごみを捨てるな",
         "pictograms": [],
         "language": [
           "ja"
