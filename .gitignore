@@ -3,3 +3,4 @@ data_excel/~*
 __pycache__/
 .DS_Store
 .cache/
+qrcode_url.png
