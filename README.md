@@ -5,11 +5,13 @@
 
 テキスト検索・タグ絞り込みのできる[ビューア (看板コレクション)](https://piijey.github.io/kanban/)を GitHub Pages で公開中。
 
-## データについて (data.json)
+## データについて
 
-- `signs`: 文字起こしテキスト・ピクトグラム・言語・形態（手動で付与）
-- `date` / `location`: 撮影日・位置（画像のEXIFから取得）
-- `location_info`: `location` を [Nominatim API](https://nominatim.openstreetmap.org/) で逆ジオコーディングした国・都道府県・市区町村など
+- 画像ファイル: `docs/images/*.JPG`
+- メタ情報: `docs/data.json`
+  - `signs`: 文字起こしテキスト・ピクトグラム・言語・形態（手動で付与）
+  - `date` / `location`: 撮影日・位置（画像のEXIFから取得）
+  - `location_info`: `location` を [Nominatim API](https://nominatim.openstreetmap.org/) で逆ジオコーディングした国・都道府県・市区町村など
 
 ## ライセンス
 
