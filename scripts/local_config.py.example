@@ -1,0 +1,9 @@
+"""
+ローカル設定のテンプレート。
+このファイルをコピーして local_config.py を作成し、値を設定してください。
+local_config.py は .gitignore 対象なのでコミットされません。
+"""
+
+# Nominatim API の利用規約で必須の連絡先情報
+# https://operations.osmfoundation.org/policies/nominatim/
+NOMINATIM_CONTACT = "your-email@example.com"

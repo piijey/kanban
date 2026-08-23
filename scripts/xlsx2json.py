@@ -15,6 +15,15 @@ import requests
 from PIL import Image
 from PIL.ExifTags import TAGS
 
+try:
+    from local_config import NOMINATIM_CONTACT
+except ImportError:
+    NOMINATIM_CONTACT = None
+
+NOMINATIM_USER_AGENT = (
+    f"kanban-corpus ({NOMINATIM_CONTACT})" if NOMINATIM_CONTACT else "kanban-corpus"
+)
+
 
 def get_image_metadata(image_path: str) -> dict:
     """
@@ -124,7 +133,7 @@ def get_location_info(lat: float, lng: float, cache: dict, cache_path: str, lang
             'language': language,
             'addressdetails': 1
         }
-        response = requests.get(url, params=params, headers={'User-Agent': 'kanban-corpus'}, timeout=10)
+        response = requests.get(url, params=params, headers={'User-Agent': NOMINATIM_USER_AGENT}, timeout=10)
         response.raise_for_status()
         data = response.json()
         address = data.get('address', {})
